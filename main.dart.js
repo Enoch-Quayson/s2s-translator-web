@@ -26712,7 +26712,7 @@ for(;;)switch(s){case 0:o=A
 s=3
 return A.G(A.jw(),$async$iY)
 case 3:p=o.ck(b.a.h(0,"api_url"))
-q=p==null?"https://enochquayson-s2s-translator.hf.space":p
+q=p==null?"https://s2s-translator-api-1.onrender.com":p
 s=1
 break
 case 1:return A.J(q,r)}})
