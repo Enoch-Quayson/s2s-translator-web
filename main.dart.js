@@ -26720,11 +26720,11 @@ case 3:return A.J(null,r)}})
 return A.K($async$wb,r)},
 Hx(a,b){var s=0,r=A.L(t.P),q,p,o,n,m,l
 var $async$Hx=A.M(function(c,d){if(c===1)return A.I(d,r)
-for(;;)switch(s){case 0:p=A.dV("https://enochquayson-s2s-translator.hf.space/api/predict",0,null)
+for(;;)switch(s){case 0:p=A.dV("https://enochquayson-s2s-translator.hf.space/run/predict",0,null)
 o=t.N
 n=A.aa(["Content-Type","application/json"],o,o)
 s=3
-return A.G(A.avg(p,B.aU.z2(A.aa(["fn_index",1,"data",A.c([b,a],t.s)],o,t.K),null),n),$async$Hx)
+return A.G(A.avg(p,B.aU.z2(A.aa(["api_name","/translate_text","data",A.c([b,a],t.s)],o,t.K),null),n),$async$Hx)
 case 3:m=d
 l=J.fj(B.aU.nC(A.GN(A.GG(m.e)).dY(m.w),null),"data")
 n=J.br(l)
