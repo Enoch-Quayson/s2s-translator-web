@@ -26720,7 +26720,7 @@ case 3:return A.J(null,r)}})
 return A.K($async$wb,r)},
 Hx(a,b){var s=0,r=A.L(t.P),q,p,o,n,m,l
 var $async$Hx=A.M(function(c,d){if(c===1)return A.I(d,r)
-for(;;)switch(s){case 0:p=A.dV("https://enochquayson-s2s-translator.hf.space/gradio/api/predict",0,null)
+for(;;)switch(s){case 0:p=A.dV("https://enochquayson-s2s-translator.hf.space/api/predict",0,null)
 o=t.N
 n=A.aa(["Content-Type","application/json"],o,o)
 s=3
