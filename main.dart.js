@@ -26724,7 +26724,7 @@ qW(a,b){return A.aGq(a,b)},
 aGq(a2,a3){var s=0,r=A.L(t.P),q,p=2,o=[],n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1
 var $async$qW=A.M(function(a4,a5){if(a4===1){o.push(a5)
 s=p}for(;;)A:switch(s){case 0:p=4
-f=A.dI("https://enochquayson-s2s-translator.hf.space/call/translate_text",0,null)
+f=A.dI("https://enochquayson-s2s-translator.hf.space/gradio_api/call/translate_text",0,null)
 e=t.N
 d=A.a7(["Content-Type","application/json"],e,e)
 c=t.s
@@ -26738,7 +26738,7 @@ d=t.z
 s=8
 return A.F(A.y5(B.Fq,null,d),$async$qW)
 case 8:s=9
-return A.F(A.Xw(A.dI("https://enochquayson-s2s-translator.hf.space/call/translate_text/"+A.k(l),0,null),null),$async$qW)
+return A.F(A.Xw(A.dI("https://enochquayson-s2s-translator.hf.space/gradio_api/call/translate_text/"+A.k(l),0,null),null),$async$qW)
 case 9:k=a5
 f=k
 j=A.c(A.vI(A.vx(f.e)).dL(f.w).split("\n"),c)
