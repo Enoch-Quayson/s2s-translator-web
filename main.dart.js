@@ -26364,7 +26364,7 @@ wl(a3,a4){var s=0,r=A.G(t.j),q,p=2,o=[],n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2
 var $async$wl=A.B(function(a6,a7){if(a6===1){o.push(a7)
 s=p}for(;;)A:switch(s){case 0:a1=A.db("https://enochquayson-s2s-translator.hf.space/gradio_api/call/"+a3+"/"+a4,0,null)
 g=t.j,f=t.z,e=0
-case 3:if(!(e<60)){s=5
+case 3:if(!(e<150)){s=5
 break}s=6
 return A.v(A.y7(B.h1,null,f),$async$wl)
 case 6:p=8
