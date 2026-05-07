@@ -1,0 +1,3180 @@
+{
+  "Hello": {
+    "fr": "Allô?",
+    "tw": "Mommra mmra!",
+    "ee": "Medo gbe na wò.",
+    "hau": "Barka dai.",
+    "fuv": "Bonjour, boo boo"
+  },
+  "Hi": {
+    "fr": "Salut.",
+    "tw": "Akwaaba",
+    "ee": "Medo gbe na wò.",
+    "hau": "Barka dai.",
+    "fuv": "Hi."
+  },
+  "Hey": {
+    "fr": "Hey",
+    "tw": "Wo ho yɛ den.",
+    "ee": "Miɖo ŋku edzi.",
+    "hau": "Ya ku mutane.",
+    "fuv": "Hey"
+  },
+  "Good morning": {
+    "fr": "Bonjour.",
+    "tw": "Anwummere pa",
+    "ee": "Ŋdi nyui!",
+    "hau": "Barka da safe.",
+    "fuv": "Good morning"
+  },
+  "Good afternoon": {
+    "fr": "Bon après-midi",
+    "tw": "Anwummere pa",
+    "ee": "Ŋkeke nyui",
+    "hau": "Barka da rana.",
+    "fuv": "Good afternoon"
+  },
+  "Good evening": {
+    "fr": "Bonsoir.",
+    "tw": "Anwummere pa",
+    "ee": "Fiẽ nyui!",
+    "hau": "Barka da maraice",
+    "fuv": "Nawnde mawnde"
+  },
+  "Good night": {
+    "fr": "Bonsoir.",
+    "tw": "Anadwo pa",
+    "ee": "Fiẽ nyui!",
+    "hau": "Barka da dare",
+    "fuv": "Good night"
+  },
+  "Goodbye": {
+    "fr": "Au revoir",
+    "tw": "Awiei koraa no",
+    "ee": "Va kpɔ mí ɖa.",
+    "hau": "Barka dai.",
+    "fuv": "Good-bye"
+  },
+  "Bye": {
+    "fr": "Bye",
+    "tw": "Awie",
+    "ee": "Bye Bye",
+    "hau": "Barka dai.",
+    "fuv": "Bye bee"
+  },
+  "See you later": {
+    "fr": "A tout à l'heure",
+    "tw": "Yebehu wo akyiri yi.",
+    "ee": "Míakpɔ mía nɔewo emegbe",
+    "hau": "Za mu gan ka daga baya.",
+    "fuv": "See you later haa haa haa haa"
+  },
+  "See you tomorrow": {
+    "fr": "A demain",
+    "tw": "Yebehu wo ɔkyena",
+    "ee": "Míakpɔ mía nɔewo etsɔ",
+    "hau": "Za mu gan ku gobe",
+    "fuv": "Njaɓɓon yeeso subaka."
+  },
+  "See you soon": {
+    "fr": "A bientôt",
+    "tw": "Ɛrenkyɛ koraa yebehu wo",
+    "ee": "Míakpɔ wò kpuie",
+    "hau": "Za mu gan ku nan da nan.",
+    "fuv": "See you soon haa haa haa haa"
+  },
+  "Take care": {
+    "fr": "Prends soin de toi",
+    "tw": "Hwɛ wo ho yiye",
+    "ee": "Lé ŋku ɖe ɖokuiwò ŋu",
+    "hau": "Ka mai da hankali",
+    "fuv": "Hakkiilo ma"
+  },
+  "Have a good day": {
+    "fr": "Passe une bonne journée",
+    "tw": "Da pa bi da.",
+    "ee": "Ŋkeke nyui na wò.",
+    "hau": "Ka yi kwana mai kyau.",
+    "fuv": "Goonga nyalnde mon"
+  },
+  "Have a nice day": {
+    "fr": "Passe une belle journée",
+    "tw": "Da pa bi da.",
+    "ee": "Ŋkeke nyui na wò.",
+    "hau": "Ku yi kwana mai kyau.",
+    "fuv": "Goonga nyalnde ma"
+  },
+  "Have a safe journey": {
+    "fr": "Avoir un voyage en toute sécurité",
+    "tw": "Ma w'akwantu nyɛ den",
+    "ee": "Wò mɔzɔzɔa nanɔ dedie",
+    "hau": "Ku yi tafiya lafiya.",
+    "fuv": "Goɗɗum e laawol"
+  },
+  "Safe travels": {
+    "fr": "Voyages en toute sécurité",
+    "tw": "Akwantu a eye",
+    "ee": "Mɔzɔzɔ dedie",
+    "hau": "Tafiya mai lafiya",
+    "fuv": "Njaayɗe njogiiɗe"
+  },
+  "Welcome": {
+    "fr": "Bienvenue",
+    "tw": "Akwaaba",
+    "ee": "Mixɔ mí nyuie",
+    "hau": "Barka da zuwa",
+    "fuv": "Ɓeydaama"
+  },
+  "Welcome back": {
+    "fr": "Bienvenue à nouveau",
+    "tw": "Yɛde anigye san bae.",
+    "ee": "Do dzidzɔ na mí be míegatrɔ va.",
+    "hau": "Barka da dawowa",
+    "fuv": "Welcome back"
+  },
+  "How are you": {
+    "fr": "Comment allez-vous?",
+    "tw": "Wo ho te dɛn?",
+    "ee": "Aleke nèle?",
+    "hau": "Yaya kake?",
+    "fuv": "How do you be"
+  },
+  "How are you doing": {
+    "fr": "Comment allez-vous?",
+    "tw": "Wo ho te dɛn?",
+    "ee": "Aleke wòle na wò?",
+    "hau": "Yaya kake?",
+    "fuv": "How do you be doing?"
+  },
+  "How is your day": {
+    "fr": "Comment est votre journée",
+    "tw": "Wo da te sɛn?",
+    "ee": "Aleke wò ŋkekea le?",
+    "hau": "Yaya ranarka take?",
+    "fuv": "Hol no nyalnde maaɗa woni?"
+  },
+  "How was your day": {
+    "fr": "Comment s'est passée ta journée",
+    "tw": "Ɔkwan bɛn so na wo da no kɔɔ so?",
+    "ee": "Aleke wò ŋkekea nɔ?",
+    "hau": "Yaya ranarka ta kasance?",
+    "fuv": "No nyalnde maaɗa waɗi?"
+  },
+  "How is the family": {
+    "fr": "Comment est la famille",
+    "tw": "Dɛn na abusua no ayɛ?",
+    "ee": "Aleke ƒomea le?",
+    "hau": "Yaya iyalin suke?",
+    "fuv": "How's family be be"
+  },
+  "How is your health": {
+    "fr": "Comment est votre santé",
+    "tw": "Wo apɔwmuden te dɛn?",
+    "ee": "Aleke wò lãme le?",
+    "hau": "Yaya lafiyarka take?",
+    "fuv": "Hol no nyalawma maaɗa woni?"
+  },
+  "I am fine": {
+    "fr": "Je suis très bien.",
+    "tw": "Me ho ye",
+    "ee": "Nye lãme li nyuie.",
+    "hau": "Ina lafiya",
+    "fuv": "Mi haani"
+  },
+  "I am good": {
+    "fr": "Je suis bon",
+    "tw": "Me ho ye",
+    "ee": "Mewɔa dɔ nyuie.",
+    "hau": "Ina da kyau.",
+    "fuv": "Mi marɗo"
+  },
+  "I am okay": {
+    "fr": "Je suis d'accord",
+    "tw": "Me ho ye",
+    "ee": "Nye lãme mele o.",
+    "hau": "Ina lafiya",
+    "fuv": "Mi haani"
+  },
+  "I am not well": {
+    "fr": "Je ne suis pas bien",
+    "tw": "Me ho nyɛ me den",
+    "ee": "Nye lãme mele nyuie o",
+    "hau": "Ba ni da lafiya",
+    "fuv": "Mi walaa belɗum"
+  },
+  "I am tired": {
+    "fr": "Je suis fatiguée",
+    "tw": "M'abam abu",
+    "ee": "Ðeɖi te ŋunye.",
+    "hau": "Na gaji",
+    "fuv": "Mi marɗo"
+  },
+  "I am happy": {
+    "fr": "Je suis heureux",
+    "tw": "M'ani gye",
+    "ee": "Mekpɔa dzidzɔ.",
+    "hau": "Ina farin ciki",
+    "fuv": "Mi heɓaani"
+  },
+  "I am sad": {
+    "fr": "Je suis triste",
+    "tw": "Me werɛ ahow",
+    "ee": "Nu te ɖe dzinye ŋutɔ",
+    "hau": "Ina baƙin ciki",
+    "fuv": "Mi ɗon ɓilla"
+  },
+  "I am busy": {
+    "fr": "Je suis occupé",
+    "tw": "Meyɛ adwuma",
+    "ee": "Dɔ le ŋunye ŋutɔ.",
+    "hau": "Ina da aiki.",
+    "fuv": "Mi ɗon hawta"
+  },
+  "Nice to meet you": {
+    "fr": "Au plaisir de vous rencontrer",
+    "tw": "Ɛyɛ me anigye sɛ mihyiaa wo",
+    "ee": "Edzɔ dzi nam be míegblɔe na mi.",
+    "hau": "Na yi farin cikin saduwa da kai",
+    "fuv": "Njaɓii anndude on"
+  },
+  "Long time no see": {
+    "fr": "a fait longtemps qu'on ne voit pas",
+    "tw": "Bere tenten a manhu no",
+    "ee": "Ɣeyiɣi didi aɖee nye esia nyemekpɔe kpɔ o",
+    "hau": "Lokaci mai tsawo ba mu gani ba",
+    "fuv": "Wakkati ɗuuɗŋgal walaa yi'ugo"
+  },
+  "Thank you": {
+    "fr": "Je vous remercie.",
+    "tw": "Meda mo ase",
+    "ee": "Míeda akpe na wò.",
+    "hau": "Na gode sosai.",
+    "fuv": "Naawɗee"
+  },
+  "Thank you very much": {
+    "fr": "Je vous remercie beaucoup.",
+    "tw": "Meda mo ase paa",
+    "ee": "Míeda akpe na wò ŋutɔ",
+    "hau": "Na gode sosai",
+    "fuv": "Goonga masin"
+  },
+  "Thanks a lot": {
+    "fr": "Merci beaucoup",
+    "tw": "Meda mo ase paa.",
+    "ee": "Akpe na wò ŋutɔ.",
+    "hau": "Na gode sosai",
+    "fuv": "Goonga masin"
+  },
+  "You are welcome": {
+    "fr": "Vous êtes les bienvenus",
+    "tw": "Yɛto nsa frɛ wo",
+    "ee": "Míele mia kpem nyuie.",
+    "hau": "Muna maraba da ku.",
+    "fuv": "On njaaraama"
+  },
+  "No problem": {
+    "fr": "Pas de problème",
+    "tw": "Ɔhaw biara nni hɔ",
+    "ee": "Menye kuxi aɖeke o.",
+    "hau": "Babu matsala",
+    "fuv": "Wala caɗeele"
+  },
+  "Do not worry": {
+    "fr": "Ne vous inquiétez pas",
+    "tw": "Mma ɛnhaw wo",
+    "ee": "Mègavɔ̃ o",
+    "hau": "Kada ka damu",
+    "fuv": "Ngalaa hakkiilo"
+  },
+  "Please": {
+    "fr": "S'il vous plaît",
+    "tw": "Mesrɛ wo.",
+    "ee": "Meɖe kuku",
+    "hau": "Don Allah",
+    "fuv": "Wondiree"
+  },
+  "Sorry": {
+    "fr": "Désolée.",
+    "tw": "Mepa wo kyɛw",
+    "ee": "Edzɔ dzi nam ŋutɔ.",
+    "hau": "Ka yi hakuri.",
+    "fuv": "Maafuki"
+  },
+  "I am sorry": {
+    "fr": "Je suis désolée.",
+    "tw": "Mepa kyɛw",
+    "ee": "Edzɔ dzi nam ŋutɔ.",
+    "hau": "Na yi nadama.",
+    "fuv": "Mi ɗon yaafana"
+  },
+  "Excuse me": {
+    "fr": "Excusez-moi.",
+    "tw": "Mesrɛ mo, mesrɛ mo.",
+    "ee": "Miɖe asi le ŋunye.",
+    "hau": "Ka gafarce ni.",
+    "fuv": "Yaafani am"
+  },
+  "Congratulations": {
+    "fr": "Félicitations",
+    "tw": "Nhyira nka wo",
+    "ee": "Akpe ɖe ŋuwò",
+    "hau": "Barka da zuwa",
+    "fuv": "Furiima"
+  },
+  "Well done": {
+    "fr": "Bien joué.",
+    "tw": "Woayɛ no yiye",
+    "ee": "Wowɔe nyuie.",
+    "hau": "Kyakkyawan aiki",
+    "fuv": "Goonga waɗii"
+  },
+  "Good job": {
+    "fr": "Bon travail.",
+    "tw": "Woayɛ adwuma pa.",
+    "ee": "Dɔ nyui wɔ.",
+    "hau": "Kyakkyawan aiki",
+    "fuv": "Kuugal booɗɗum"
+  },
+  "What is your name": {
+    "fr": "Quel est votre nom?",
+    "tw": "Wo din de dɛn?",
+    "ee": "Ŋkɔ kae le asiwò?",
+    "hau": "Menene sunanka?",
+    "fuv": "Hol innde maaɗa?"
+  },
+  "My name is John": {
+    "fr": "Je m'appelle John",
+    "tw": "Me din de John",
+    "ee": "Nye ŋkɔe nye John.",
+    "hau": "Sunana John.",
+    "fuv": "Innde am John"
+  },
+  "My name is Mary": {
+    "fr": "Je m'appelle Mary",
+    "tw": "Me din de Mary",
+    "ee": "Nye ŋkɔe nye Mary.",
+    "hau": "Sunana Mary",
+    "fuv": "Innde am Mary"
+  },
+  "Where are you from": {
+    "fr": "D'où venez-vous?",
+    "tw": "Ɛhe na wufi?",
+    "ee": "Afi kae nènye tso?",
+    "hau": "Daga ina ka fito?",
+    "fuv": "Diga to on ƴiwoy?"
+  },
+  "I am from Ghana": {
+    "fr": "Je viens du Ghana",
+    "tw": "Mifi Ghana",
+    "ee": "Ghanae menye",
+    "hau": "Ni daga Ghana ne",
+    "fuv": "Mi ƴiwoy lesdi Ghana"
+  },
+  "I am from Nigeria": {
+    "fr": "Je viens du Nigeria",
+    "tw": "Mifi Nigeria",
+    "ee": "Nyee nye Nigeriatɔ",
+    "hau": "Ni daga Najeriya ne",
+    "fuv": "Mi woni daga Nigeria"
+  },
+  "I live in Accra": {
+    "fr": "Je vis à Accra",
+    "tw": "Metena Accra",
+    "ee": "Mele Accra",
+    "hau": "Ina zama a birnin Accra",
+    "fuv": "Mi jooɗi nder Accra"
+  },
+  "I live in Kumasi": {
+    "fr": "J'habite à Kumasi",
+    "tw": "Me te Kumasi",
+    "ee": "Mele Kumasi",
+    "hau": "Ina zaune a Kumasi",
+    "fuv": "Mi jooɗii e Kumasi"
+  },
+  "How old are you": {
+    "fr": "Quel âge avez-vous",
+    "tw": "Woadi mfe ahe?",
+    "ee": "Ƒe nenie nèxɔ?",
+    "hau": "Shekararka nawa ne?",
+    "fuv": "How old are you?"
+  },
+  "I am twenty years old": {
+    "fr": "J'ai vingt ans",
+    "tw": "Midi mfe aduonu",
+    "ee": "Ƒe blaevee mexɔ",
+    "hau": "Ina da shekara ashirin",
+    "fuv": "Mi woodi duuɓi noogas"
+  },
+  "I am a doctor": {
+    "fr": "Je suis médecin",
+    "tw": "Meyɛ oduruyɛfo",
+    "ee": "Ðɔktae menye",
+    "hau": "Ni likita ne",
+    "fuv": "Mi doktoor"
+  },
+  "I am a teacher": {
+    "fr": "Je suis un professeur",
+    "tw": "Meyɛ ɔkyerɛkyerɛfo",
+    "ee": "Nyee nye nufiala",
+    "hau": "Ni malami ne",
+    "fuv": "Mi woni jannginoowo"
+  },
+  "I am a nurse": {
+    "fr": "Je suis infirmière",
+    "tw": "Meyɛ ɔyarehwɛfo",
+    "ee": "Dɔnɔdzikpɔla menye",
+    "hau": "Ni malami ne",
+    "fuv": "Mi woni wallibaajo"
+  },
+  "I am an engineer": {
+    "fr": "Je suis ingénieur",
+    "tw": "Meyɛ ɔbenfo",
+    "ee": "Dzɔdzɔmeŋutinunyala menye",
+    "hau": "Ni injiniya ne",
+    "fuv": "Miɗo wondi injineer"
+  },
+  "I am a farmer": {
+    "fr": "Je suis un fermier",
+    "tw": "Meyɛ okuafo",
+    "ee": "Nyee nye agbledela",
+    "hau": "Ni manomi ne",
+    "fuv": "Mi woni remoowo"
+  },
+  "I am a student": {
+    "fr": "Je suis étudiant",
+    "tw": "Meyɛ osuani",
+    "ee": "Nyee nye sukuvi",
+    "hau": "Ni ɗalibi ne",
+    "fuv": "Mi woni jannginoowo"
+  },
+  "I am a businessman": {
+    "fr": "Je suis un homme d'affaires",
+    "tw": "Meyɛ adwumawura",
+    "ee": "Enye asitsala aɖe.",
+    "hau": "Ni dan kasuwa ne",
+    "fuv": "Mi marɗo kuugal"
+  },
+  "I am retired": {
+    "fr": "Je suis retraité",
+    "tw": "M'abrabɔ afi ase",
+    "ee": "Mexɔ dzudzɔ",
+    "hau": "Na yi ritaya",
+    "fuv": "Miɗo jooɗoto"
+  },
+  "I am married": {
+    "fr": "Je suis marié",
+    "tw": "Wɔaware me",
+    "ee": "Meɖe srɔ̃.",
+    "hau": "Ina da aure.",
+    "fuv": "Mi dewtaama"
+  },
+  "I am single": {
+    "fr": "Je suis célibataire",
+    "tw": "Meyɛ ɔwarefo",
+    "ee": "Nyemeɖe srɔ̃ o",
+    "hau": "Ba ni da aure.",
+    "fuv": "Mi walaa gorko"
+  },
+  "I have two children": {
+    "fr": "J'ai deux enfants",
+    "tw": "Mewɔ mma baanu",
+    "ee": "Vi eve le asinye",
+    "hau": "Ina da 'ya'ya biyu",
+    "fuv": "Mi woodi ɓiɓɓe ɗiɗo"
+  },
+  "My mother": {
+    "fr": "Ma mère",
+    "tw": "Me maame",
+    "ee": "Nye dada",
+    "hau": "Mahaifiyata",
+    "fuv": "Maama am"
+  },
+  "My father": {
+    "fr": "Mon père.",
+    "tw": "Me papa",
+    "ee": "Fofonye",
+    "hau": "Mahaifina",
+    "fuv": "Baaba am"
+  },
+  "My brother": {
+    "fr": "Mon frère",
+    "tw": "Me nuabarima",
+    "ee": "Nɔvinyeŋutsu",
+    "hau": "Ɗan'uwana",
+    "fuv": "Ɓiɗɗo am"
+  },
+  "My sister": {
+    "fr": "Ma sœur",
+    "tw": "Me nuabea",
+    "ee": "Nye nɔvinyenyɔnu",
+    "hau": "'Yar'uwata",
+    "fuv": "Baabiraawo am"
+  },
+  "My son": {
+    "fr": "Mon fils",
+    "tw": "Me babarima",
+    "ee": "Vinye",
+    "hau": "Ɗana",
+    "fuv": "Ɓiɗɗo am"
+  },
+  "My daughter": {
+    "fr": "Ma fille",
+    "tw": "Me babea",
+    "ee": "Nye vinyenyɔnu",
+    "hau": "'Yata",
+    "fuv": "Ɓiɗɗo am"
+  },
+  "My baby": {
+    "fr": "Mon bébé",
+    "tw": "Me ba",
+    "ee": "Nye vidzĩ",
+    "hau": "Ƙaunataccena",
+    "fuv": "Ɓiɗɗo am"
+  },
+  "My family": {
+    "fr": "Ma famille",
+    "tw": "M'abusuafo",
+    "ee": "Nye ƒomea",
+    "hau": "Iyalina",
+    "fuv": "Banndiraaɓe am"
+  },
+  "My friend": {
+    "fr": "Mon ami",
+    "tw": "Me adamfo",
+    "ee": "Xɔ̃nye",
+    "hau": "Abokina",
+    "fuv": "Nyaako am"
+  },
+  "My grandfather": {
+    "fr": "Mon grand-père",
+    "tw": "Me nanabarima",
+    "ee": "Nye tɔgbui",
+    "hau": "Kakana",
+    "fuv": "Baaba am"
+  },
+  "My grandmother": {
+    "fr": "Ma grand-mère",
+    "tw": "Me nanabea",
+    "ee": "Nye mama",
+    "hau": "Kakata",
+    "fuv": "Mawɗo am"
+  },
+  "My uncle": {
+    "fr": "Mon oncle.",
+    "tw": "Me wɔfa",
+    "ee": "Fofonye",
+    "hau": "Mahaifiyata",
+    "fuv": "Baaba am"
+  },
+  "My aunt": {
+    "fr": "Ma tante",
+    "tw": "Me wɔfa no",
+    "ee": "Nye tetekpɔa",
+    "hau": "Aunty ta",
+    "fuv": "Aamiraawo am"
+  },
+  "The baby is crying": {
+    "fr": "Le bébé pleure",
+    "tw": "Abofra no resu",
+    "ee": "Vi la le avi fam",
+    "hau": "Jaririn yana kuka",
+    "fuv": "Ɓiɗɗo ɗon boowi"
+  },
+  "The child is sleeping": {
+    "fr": "L'enfant dort",
+    "tw": "Abofra no da",
+    "ee": "Ðevia le alɔ̃ dɔm",
+    "hau": "Yaron yana barci",
+    "fuv": "Ɓiɗɗo ɗon ɗaana"
+  },
+  "My child is sick": {
+    "fr": "Mon enfant est malade",
+    "tw": "Me ba no yare",
+    "ee": "Vinye la le dɔ lém",
+    "hau": "Yata tana ciwo.",
+    "fuv": "Ɓiɗɗo am ɗon nyawdi"
+  },
+  "I love my family": {
+    "fr": "J'aime ma famille",
+    "tw": "Medɔ m'abusua",
+    "ee": "Melɔ̃ nye ƒomea",
+    "hau": "Ina son iyalina",
+    "fuv": "Mi yiɗi saare am"
+  },
+  "The children are playing": {
+    "fr": "Les enfants jouent",
+    "tw": "Mmofra no redi agorɔ",
+    "ee": "Ðeviwo le fefem",
+    "hau": "Yaran suna wasa",
+    "fuv": "Sukaaɓe ɗon kawta"
+  },
+  "Feed the baby": {
+    "fr": "Nourrir le bébé",
+    "tw": "Ma abofra no aduan",
+    "ee": "Na nuɖuɖu ɖevia",
+    "hau": "Ka ciyar da jaririn",
+    "fuv": "Nyaama ɓikkoy"
+  },
+  "What time is it": {
+    "fr": "Quelle heure est-il",
+    "tw": "Bere bɛn na adu?",
+    "ee": "Ɣeyiɣi nenie?",
+    "hau": "Sa'a nawa ce?",
+    "fuv": "Ko saa'i woni?"
+  },
+  "What day is it today": {
+    "fr": "Quel jour est-il aujourd'hui",
+    "tw": "Da bɛn na ɛwɔ hɔ nnɛ?",
+    "ee": "Ŋkeke kae nye egbea?",
+    "hau": "Wane rana ce yau?",
+    "fuv": "Ko homen woni hannde"
+  },
+  "Where are you going": {
+    "fr": "Où allez-vous?",
+    "tw": "Ɛhe na worekɔ?",
+    "ee": "Afikae nèle yiyim?",
+    "hau": "Ina za ku tafi?",
+    "fuv": "To on ɗon yaha"
+  },
+  "Where do you live": {
+    "fr": "Où habitez-vous?",
+    "tw": "Ɛhe na wote?",
+    "ee": "Afikae nèle?",
+    "hau": "A ina kake zama?",
+    "fuv": "To a jooɗii"
+  },
+  "Where is the toilet": {
+    "fr": "Où sont les toilettes",
+    "tw": "Ɛhe na asau no wɔ?",
+    "ee": "Afika tsiɖitsiɖodzia le?",
+    "hau": "A ina gidan wanka yake?",
+    "fuv": "Fuu tooyre woni"
+  },
+  "Where is the hospital": {
+    "fr": "Où se trouve l'hôpital",
+    "tw": "Ɛhe na ayaresabea no wɔ?",
+    "ee": "Afikae kɔdzi la le?",
+    "hau": "A ina asibitin yake?",
+    "fuv": "To suudu ndun woni"
+  },
+  "Where is the pharmacy": {
+    "fr": "Où se trouve la pharmacie",
+    "tw": "Apoteke no wɔ he?",
+    "ee": "Afikae atikewɔƒe la le?",
+    "hau": "A ina kantin magani yake?",
+    "fuv": "To dokkal ngal woni"
+  },
+  "Where is the police station": {
+    "fr": "Où se trouve le commissariat de police",
+    "tw": "Ɛhe na polisifo baabea no wɔ?",
+    "ee": "Afi kae kpovitɔwo ƒe dɔwɔƒea le?",
+    "hau": "A ina ne ofishin 'yan sanda yake?",
+    "fuv": "To polis ngal woni?"
+  },
+  "Where is the market": {
+    "fr": "Où se trouve le marché",
+    "tw": "Ɛhe na aguadi wɔ?",
+    "ee": "Afikae asitsatsa le?",
+    "hau": "A ina ne kasuwa take",
+    "fuv": "Toye kasu ɗon?"
+  },
+  "Where is the church": {
+    "fr": "Où est l'église",
+    "tw": "Ɛhe na asɔre no wɔ?",
+    "ee": "Afikae sɔlemehaa le?",
+    "hau": "Ina cocin yake?",
+    "fuv": "Toye ko juulde nden woni"
+  },
+  "Where is the mosque": {
+    "fr": "Où se trouve la mosquée",
+    "tw": "Ɛhe na mosque no wɔ?",
+    "ee": "Afikae gbedoa le?",
+    "hau": "A ina masallacin yake?",
+    "fuv": "Hol juulde nden woni?"
+  },
+  "Where is the school": {
+    "fr": "Où est l'école",
+    "tw": "Sukuu no wɔ he?",
+    "ee": "Afikae suku la le?",
+    "hau": "A ina makarantar take?",
+    "fuv": "Toye janngirde nden woni"
+  },
+  "Where is the airport": {
+    "fr": "Où se trouve l'aéroport",
+    "tw": "Ɛhe na wimhyɛn gyinabea no wɔ?",
+    "ee": "Afika yameʋudzeƒea le?",
+    "hau": "A ina ne filin jirgin sama?",
+    "fuv": "Fuu nokkuure nduu woni"
+  },
+  "Where is the bank": {
+    "fr": "Où est la banque",
+    "tw": "Baank no wɔ he?",
+    "ee": "Afikae gadzraɖoƒe la le?",
+    "hau": "A ina bankin yake?",
+    "fuv": "To bannge woni"
+  },
+  "How far is it": {
+    "fr": "C'est loin.",
+    "tw": "Ɛdɛn na ɛwɔ hɔ?",
+    "ee": "Afikae wòle?",
+    "hau": "Yaya nisa yake?",
+    "fuv": "How far it's to be"
+  },
+  "How long will it take": {
+    "fr": "Combien de temps cela prendra-t-il",
+    "tw": "Bere tenten ahe na ebegye?",
+    "ee": "Ɣeyiɣi didi kae esia axɔ?",
+    "hau": "Yaya tsawon lokacin da zai dauki",
+    "fuv": "No wakkati boo ɗum waɗata?"
+  },
+  "How much does it cost": {
+    "fr": "Combien ça coûte",
+    "tw": "Dɛn na ɛsom bo?",
+    "ee": "Ga nenie wògblẽna?",
+    "hau": "Nawa ne kudin?",
+    "fuv": "Ɗume ɗum costata?"
+  },
+  "Can you help me": {
+    "fr": "Pouvez-vous m'aider?",
+    "tw": "Wubetumi aboa me?",
+    "ee": "Àte ŋu akpe ɖe ŋunyea?",
+    "hau": "Za ka iya taimaka mini?",
+    "fuv": "A waawataa wallude am"
+  },
+  "Do you speak English": {
+    "fr": "Parlez-vous anglais?",
+    "tw": "Woka Borɔfo kasa?",
+    "ee": "Ðe nèƒoa Eŋlisigbea?",
+    "hau": "Kuna magana da Turanci?",
+    "fuv": "On ɗon mbi'a Farayse?"
+  },
+  "I do not understand": {
+    "fr": "je ne comprends pas",
+    "tw": "Mente ase",
+    "ee": "Nyemese egɔme o",
+    "hau": "Ban fahimta ba",
+    "fuv": "Mi faamaay"
+  },
+  "Can you repeat that": {
+    "fr": "Pouvez-vous répéter cela",
+    "tw": "Wubetumi aka saa bio?",
+    "ee": "Ðe nàte ŋu agblɔe akea?",
+    "hau": "Za ka iya maimaita wannan",
+    "fuv": "A waawataa wi'ugo ɗum"
+  },
+  "Please speak slowly": {
+    "fr": "Parlez lentement",
+    "tw": "Mesrɛ wo kasa dinn",
+    "ee": "Míeɖe kuku, ƒo nu vivivi",
+    "hau": "Don Allah ka yi magana a hankali",
+    "fuv": "Wonde haalan ɗon ɗon"
+  },
+  "I am sick": {
+    "fr": "Je suis malade",
+    "tw": "Meyare",
+    "ee": "Nye lãme sẽ o",
+    "hau": "Ina rashin lafiya",
+    "fuv": "Mi nyawɗo"
+  },
+  "I am not feeling well": {
+    "fr": "Je ne me sens pas bien",
+    "tw": "Mente me ho yiye",
+    "ee": "Nye lãme mele nyuie o",
+    "hau": "Ba na jin daɗi",
+    "fuv": "Mi nanaayi booɗɗum"
+  },
+  "I feel weak": {
+    "fr": "Je me sens faible",
+    "tw": "Mete nka sɛ meyɛ mmerɛw",
+    "ee": "Mese le ɖokuinye me be ŋusẽ mele ŋunye o",
+    "hau": "Ina jin rauni",
+    "fuv": "Mi nani mi laaɓɗo"
+  },
+  "I need a doctor": {
+    "fr": "J'ai besoin d'un médecin",
+    "tw": "Mehia dɔkota",
+    "ee": "Mehiã ɖɔkta aɖe",
+    "hau": "Ina bukatar likita",
+    "fuv": "Mi yiɗi doktoor"
+  },
+  "Call an ambulance": {
+    "fr": "Appelez une ambulance",
+    "tw": "Yɛfrɛ ayaresabea",
+    "ee": "Kplɔ kpekpeɖeŋunɔa vɛ",
+    "hau": "Ka kira motar asibiti",
+    "fuv": "Wondiree ambulance"
+  },
+  "Take me to the hospital": {
+    "fr": "Emmenez-moi à l'hôpital",
+    "tw": "Fa me kɔ ayaresabea",
+    "ee": "Kplɔm yi kɔdzi.",
+    "hau": "Ka kai ni asibiti",
+    "fuv": "Yaara am haa suudu ndun."
+  },
+  "I have a headache": {
+    "fr": "J'ai mal à la tête",
+    "tw": "M'ani gye paa",
+    "ee": "Tavesesẽ le ŋunye",
+    "hau": "Ina da ciwon kai",
+    "fuv": "Mi ɗon torra hoore am"
+  },
+  "I have a stomachache": {
+    "fr": "J'ai mal à l'estomac",
+    "tw": "M'apɔw yɛ me yaw",
+    "ee": "Nuxaxa le nye dɔme",
+    "hau": "Ina da ciwon ciki",
+    "fuv": "Mi ɗon nyaama nder reedu"
+  },
+  "I have a fever": {
+    "fr": "J'ai de la fièvre",
+    "tw": "Mewɔ atiridii",
+    "ee": "Dzidzi le ŋunye.",
+    "hau": "Ina da zazzabi",
+    "fuv": "Mi ɗon nyaama nyaamdu"
+  },
+  "I have a cold": {
+    "fr": "J'ai un rhume",
+    "tw": "Me ho atɔ me",
+    "ee": "Nye lãme sẽ.",
+    "hau": "Ina da sanyi",
+    "fuv": "Mi ɗon nyaama"
+  },
+  "I have a cough": {
+    "fr": "J'ai une toux",
+    "tw": "Me ho yɛ me den",
+    "ee": "Dzo le ŋunye.",
+    "hau": "Ina da tari",
+    "fuv": "Mi ɗon nyaama"
+  },
+  "I am vomiting": {
+    "fr": "je suis vomie",
+    "tw": "Merefew",
+    "ee": "Metsi dzodzodzoe",
+    "hau": "Ina yin amai",
+    "fuv": "Mi wurtini"
+  },
+  "I feel dizzy": {
+    "fr": "Je me sens étourdi",
+    "tw": "M'ani gye",
+    "ee": "Nye dzodzodzoe le ŋunye",
+    "hau": "Ina jin daɗi",
+    "fuv": "Mi ɗon maaro"
+  },
+  "I cannot breathe": {
+    "fr": "Je ne peux pas respirer",
+    "tw": "Merentumi nnhome",
+    "ee": "Nyemate ŋu ada gbɔgbɔ o.",
+    "hau": "Ba zan iya numfashi ba",
+    "fuv": "Mi waawataa nyaamugo"
+  },
+  "I am bleeding": {
+    "fr": "Je saigne",
+    "tw": "M' mogya rehyew",
+    "ee": "Nye ʋu le ʋuʋum.",
+    "hau": "Ina zubar da jini",
+    "fuv": "Mi ɗon ƴiiƴam"
+  },
+  "I am in pain": {
+    "fr": "Je suis dans la douleur",
+    "tw": "Mete yaw mu",
+    "ee": "Vevesese le fu ɖem nam",
+    "hau": "Ina cikin ciwo",
+    "fuv": "Mi ɗon torra"
+  },
+  "The pain is severe": {
+    "fr": "La douleur est sévère",
+    "tw": "Ɛyaw no yɛ den",
+    "ee": "Vevesesea sesẽ ŋutɔ",
+    "hau": "Ciwon yana da tsanani",
+    "fuv": "Ɓernde nden ɗon ɓeyda"
+  },
+  "I broke my arm": {
+    "fr": "Je me suis cassé le bras",
+    "tw": "Mebɔɔ me nsa",
+    "ee": "Meŋe nye asi.",
+    "hau": "Na karya hannuna",
+    "fuv": "Mi dartini juuɗe am"
+  },
+  "I broke my leg": {
+    "fr": "Je me suis cassé la jambe",
+    "tw": "Mebɔɔ me nan mu",
+    "ee": "Meŋe nye afɔwo",
+    "hau": "Na karya ƙafata",
+    "fuv": "Mi nyaami koyngal am"
+  },
+  "I am pregnant": {
+    "fr": "Je suis enceinte",
+    "tw": "Me nyinsɛn",
+    "ee": "Mele fu kpem.",
+    "hau": "Ina da ciki",
+    "fuv": "Mi ɗon maaro."
+  },
+  "I need a midwife": {
+    "fr": "J'ai besoin d'une sage-femme",
+    "tw": "Mepɛ abaayewa bi",
+    "ee": "Mehiã vidada aɖe",
+    "hau": "Ina bukatan mahaifiya",
+    "fuv": "Miɗo yiɗi go'o go'o"
+  },
+  "I am allergic to penicillin": {
+    "fr": "Je suis allergique à la pénicilline",
+    "tw": "Menyɛ penicillin ho nkekae",
+    "ee": "Penicilline ƒe nu tena ɖe ŋunye",
+    "hau": "Ina fama da allergy ga penicillin",
+    "fuv": "Mi haani penicilline"
+  },
+  "I am diabetic": {
+    "fr": "Je suis diabétique",
+    "tw": "Mewɔ asikreyare",
+    "ee": "Suklidɔ le ŋunye",
+    "hau": "Ni mai ciwon sukari ne",
+    "fuv": "Miɗo wondi e diabetes"
+  },
+  "I have malaria": {
+    "fr": "J'ai la malaria",
+    "tw": "Mewɔ atiridiinini",
+    "ee": "Malaria le ŋunye",
+    "hau": "Ina da zazzabin cizon sauro",
+    "fuv": "Mi woodi malaria"
+  },
+  "I have high blood pressure": {
+    "fr": "J'ai une pression artérielle élevée",
+    "tw": "M'adwenem yɛ me naa",
+    "ee": "Nye ʋusisidɔ le kɔkɔm",
+    "hau": "Ina da hawan jini",
+    "fuv": "Mi woodi sembe ƴiiƴam mawngu"
+  },
+  "I need my medication": {
+    "fr": "J'ai besoin de mes médicaments",
+    "tw": "Mehia m'afodua",
+    "ee": "Mehiã nye atikewo",
+    "hau": "Ina bukatan maganin na.",
+    "fuv": "Mi yiɗi lekki am"
+  },
+  "Take it with water": {
+    "fr": "Prenez-le avec de l'eau",
+    "tw": "Fa no nsu mu",
+    "ee": "Tsɔe kple tsi",
+    "hau": "Ka sha shi da ruwa.",
+    "fuv": "Jaɓɓo ɗum bee ndiyam"
+  },
+  "Take it after meals": {
+    "fr": "Prenez-le après les repas",
+    "tw": "Fa no bere a woadi no akyi",
+    "ee": "Tsɔe ne èɖu nu vɔ",
+    "hau": "Ka sha bayan ka ci abinci.",
+    "fuv": "Jaɓɓorgo Ɓaawo nyaamdu"
+  },
+  "This is urgent": {
+    "fr": "C'est urgent",
+    "tw": "Eyi ho hia paa",
+    "ee": "Esia hiã kpata.",
+    "hau": "Wannan abu ne mai gaggawa",
+    "fuv": "Ɗu'um ɗon ɓooya."
+  },
+  "I am hungry": {
+    "fr": "J'ai faim",
+    "tw": "Ɔkɔm de me",
+    "ee": "Dɔ le wuyem",
+    "hau": "Ina jin yunwa",
+    "fuv": "Mi ɗon njaafaa."
+  },
+  "I am thirsty": {
+    "fr": "J'ai soif",
+    "tw": "Osukɔm de me",
+    "ee": "tsikɔ le wuyem.",
+    "hau": "Ina jin ƙishirwa",
+    "fuv": "Mi marɗo marɗo"
+  },
+  "I want water": {
+    "fr": "Je veux de l'eau",
+    "tw": "Mepɛ nsu",
+    "ee": "Mehiã tsi",
+    "hau": "Ina son ruwa",
+    "fuv": "Mi yiɗi ndiyam"
+  },
+  "I want to eat": {
+    "fr": "Je veux manger",
+    "tw": "Mepɛ sɛ midi",
+    "ee": "Medi be maɖu nu",
+    "hau": "Ina so in ci",
+    "fuv": "Mi yiɗi nyaamugo"
+  },
+  "I want to drink": {
+    "fr": "Je veux boire",
+    "tw": "Mepɛ sɛ minom",
+    "ee": "Medi be mano nu",
+    "hau": "Ina so in sha",
+    "fuv": "Mi yiɗi njarugo"
+  },
+  "I want rice": {
+    "fr": "Je veux du riz",
+    "tw": "Mepɛ apete",
+    "ee": "Míedi abolo.",
+    "hau": "Ina son shinkafa",
+    "fuv": "Mi yiɗi rice"
+  },
+  "I want bread": {
+    "fr": "Je veux du pain",
+    "tw": "Mepɛ paanoo",
+    "ee": "Medi abolo",
+    "hau": "Ina son gurasa",
+    "fuv": "Mi yiɗi nyaamdu"
+  },
+  "I want soup": {
+    "fr": "Je veux de la soupe",
+    "tw": "Mepɛ sup",
+    "ee": "Medi kplu.",
+    "hau": "Ina son miya",
+    "fuv": "Mi yiɗi suppo"
+  },
+  "I want chicken": {
+    "fr": "Je veux du poulet",
+    "tw": "Mepɛ akokɔ",
+    "ee": "Medi koklo",
+    "hau": "Ina son kaza",
+    "fuv": "Mi yiɗi kokko"
+  },
+  "I want fish": {
+    "fr": "Je veux du poisson",
+    "tw": "Mepɛ mpataa",
+    "ee": "Mehiã tɔmelã",
+    "hau": "Ina son kifi",
+    "fuv": "Mi yiɗi liɗɗi"
+  },
+  "I want beef": {
+    "fr": "Je veux du bœuf",
+    "tw": "Mepɛ anantwi",
+    "ee": "Melɔ̃ nyi.",
+    "hau": "Ina son naman sa",
+    "fuv": "Mi yiɗi nyaamdu"
+  },
+  "I want vegetables": {
+    "fr": "Je veux des légumes",
+    "tw": "Mepɛ nnuaba",
+    "ee": "Medi be maɖu atikutsetsewo",
+    "hau": "Ina son kayan lambu",
+    "fuv": "Mi yiɗi leɗɗe"
+  },
+  "I want fruit": {
+    "fr": "Je veux des fruits",
+    "tw": "Mepɛ nnuaba",
+    "ee": "Medi atikutsetse",
+    "hau": "Ina son 'ya'yan itace",
+    "fuv": "Mi yiɗi nyaamdu"
+  },
+  "I want eggs": {
+    "fr": "Je veux des oeufs",
+    "tw": "Mepɛ nnomaa",
+    "ee": "Melɔ̃a atikutsetsewo",
+    "hau": "Ina son qwai",
+    "fuv": "Mi yiɗi nyaamdu"
+  },
+  "I want fufu": {
+    "fr": "Je veux du fufu",
+    "tw": "Mepɛ fufu",
+    "ee": "Medi fufu",
+    "hau": "Ina son fufu",
+    "fuv": "Mi yiɗi fufu"
+  },
+  "I want banku": {
+    "fr": "Je veux du banku",
+    "tw": "Mepɛ banku",
+    "ee": "Medi be banku",
+    "hau": "Ina son banki",
+    "fuv": "Mi yiɗi banku"
+  },
+  "I want kenkey": {
+    "fr": "Je veux du kenkey",
+    "tw": "Mepɛ kenkey",
+    "ee": "Melɔ̃ kplu",
+    "hau": "Ina son kenkey",
+    "fuv": "Mi yiɗi kenkey"
+  },
+  "I want jollof rice": {
+    "fr": "Je veux du riz jollof",
+    "tw": "Mepɛ apete bi",
+    "ee": "Melɔ̃ gbeɖuɖɔ",
+    "hau": "Ina son shinkafa na shinkafa",
+    "fuv": "Mi yiɗi jolloof rice"
+  },
+  "I want waakye": {
+    "fr": "Je veux waakye",
+    "tw": "Mepɛ Waakye",
+    "ee": "Medi be makpɔ gbɔdzɔe.",
+    "hau": "Ina son waakye",
+    "fuv": "Mi yiɗi waakye"
+  },
+  "I want yam": {
+    "fr": "Je veux de l'igname",
+    "tw": "Mepɛ yam",
+    "ee": "Melɔ̃ yam",
+    "hau": "Ina son yam",
+    "fuv": "Mi yiɗi yam"
+  },
+  "I want plantain": {
+    "fr": "Je veux du plantain",
+    "tw": "Mepɛ plantain",
+    "ee": "Melɔ̃ gbe",
+    "hau": "Ina son shinkafa",
+    "fuv": "Mi yiɗi go'o"
+  },
+  "I want groundnut soup": {
+    "fr": "Je veux de la soupe aux arachides",
+    "tw": "Mepɛ nsoromma nsupɔw",
+    "ee": "Medi anyigba ƒe nutsu kplu",
+    "hau": "Ina son ruwan 'ya'yan almara",
+    "fuv": "Mi yiɗi suuppu njamndi"
+  },
+  "I want palm nut soup": {
+    "fr": "Je veux une soupe de noix de palme",
+    "tw": "Mepɛ nkyea nsupɔw",
+    "ee": "Míedi be míaɖu atikutsetse",
+    "hau": "Ina son shinkafa na dabino",
+    "fuv": "Mi yiɗi suuppu cukalel"
+  },
+  "Can I have tea": {
+    "fr": "Puis-je avoir du thé",
+    "tw": "Wubetumi ama me tii?",
+    "ee": "Ðe nàte ŋu ana te nama?",
+    "hau": "Zan iya sha shayi?",
+    "fuv": "Mi waawi nyaamugo tee."
+  },
+  "Can I have coffee": {
+    "fr": "Puis-je avoir du café",
+    "tw": "So metumi anom kafe?",
+    "ee": "Ðe mate ŋu ase kɔfi aɖe oa?",
+    "hau": "Zan iya samun kofi?",
+    "fuv": "Can i have coffee can i have coffee can i have coffee can I have coffee can I have coffee can I have coffee can I have coffee can I have coffee can I have coffee can I have coffee can I have coffee can I have coffee can I have coffee can I have coffee can I have coffee can I can I have coffee can I can I have coffee can I can I have coffee can I can I can I can have coffee can I can I can I can drink coffee can I can I can I can drink coffee can I can I can I can drink coffee can I can I can I can I can drink coffee can I can I can I can I can drink coffee can I can I can I can I can drink coffee can I can I can I can I can drink coffee can I can I can I can I can drink can I can I can I can drink can I can I can I can drink coffee can I can I can I can drink can I can I can I can drink can I can I can drink can I can I can drink can I can I can drink can I can I can drink can I can I can drink can I can I can drink can I can I can I can drink coffee can I can can I can I can"
+  },
+  "Can I have milk": {
+    "fr": "Puis-je avoir du lait",
+    "tw": "So metumi anya nufusu?",
+    "ee": "Ðe mate ŋu axɔ notsi aɖe oa?",
+    "hau": "Zan iya samun madara?",
+    "fuv": "Can i have milk can i have milk can i have milk"
+  },
+  "I am vegetarian": {
+    "fr": "Je suis végétarienne",
+    "tw": "Meyɛ odwammaa",
+    "ee": "Vegetarian menye",
+    "hau": "Ni mai cin ganyayyaki ne",
+    "fuv": "Mi ɗon nyaama nyaamdu"
+  },
+  "I do not eat pork": {
+    "fr": "Je ne mange pas de porc",
+    "tw": "Menni mprako nam",
+    "ee": "Nyemeɖua ha me lã o",
+    "hau": "Ba na cin naman alade",
+    "fuv": "Mi nyaamataa leggal leggal"
+  },
+  "The food is delicious": {
+    "fr": "La nourriture est bonne.",
+    "tw": "Aduan no yɛ dɛ",
+    "ee": "Nuɖuɖu la nyo ŋutɔ.",
+    "hau": "Abincin yana da kyau sosai",
+    "fuv": "Nyaamdu ɗon laaɓta"
+  },
+  "This is too spicy": {
+    "fr": "C'est trop épicé",
+    "tw": "Eyi yɛ fɛ dodo.",
+    "ee": "Eʋẽ akpa.",
+    "hau": "Wannan yana da zafi sosai.",
+    "fuv": "Ɗu'um ɓeydi ɓeydi."
+  },
+  "The bill please": {
+    "fr": "Le projet de loi s'il vous plaît",
+    "tw": "Kyerɛwtohɔ no, mesrɛ wo",
+    "ee": "Meɖe kuku, bia akɔnta.",
+    "hau": "Da lissafin, don Allah",
+    "fuv": "Jaɓɓorgo Jaɓɓorgo"
+  },
+  "Keep the change": {
+    "fr": "Gardez le changement",
+    "tw": "Fa sika no hyɛ wo nsa",
+    "ee": "Lé ga la ɖe asi",
+    "hau": "Ka riƙe kuɗin",
+    "fuv": "Jaɓɓorgo ceede"
+  },
+  "How much is this": {
+    "fr": "C'est combien?",
+    "tw": "Ɛdɔɔso sɛn?",
+    "ee": "Ga nenie nye esia?",
+    "hau": "Nawa ne wannan?",
+    "fuv": "How much is this?"
+  },
+  "That is too expensive": {
+    "fr": "C'est trop cher",
+    "tw": "Eyi bo yɛ den dodo",
+    "ee": "Esia xɔ asi akpa.",
+    "hau": "Wannan yana da tsada sosai",
+    "fuv": "Ɗu'um ɗon costugo masin."
+  },
+  "Can you reduce the price": {
+    "fr": "Pouvez-vous réduire le prix",
+    "tw": "Wubetumi asiw ne bo ase?",
+    "ee": "Ðe nàte ŋu aɖe ga la dzi akpɔtɔa?",
+    "hau": "Za ka iya rage farashin",
+    "fuv": "Aɗa waawi ɓeydagol ceede"
+  },
+  "Do you have a discount": {
+    "fr": "Avez-vous un rabais",
+    "tw": "Wowɔ nkontaabu bi?",
+    "ee": "Ðe wòɖea vi na wòa?",
+    "hau": "Kuna da rangwame?",
+    "fuv": "On ɗon woodi ceede?"
+  },
+  "I want to buy this": {
+    "fr": "Je veux acheter ceci",
+    "tw": "Mepɛ sɛ metɔ eyi",
+    "ee": "Medi be maxɔ esia.",
+    "hau": "Ina so in sayi wannan",
+    "fuv": "Mi yiɗi jaɓugo ɗum"
+  },
+  "I will take it": {
+    "fr": "Je vais le prendre",
+    "tw": "Mɛfa no",
+    "ee": "Maxɔe",
+    "hau": "Zan karɓa.",
+    "fuv": "Mi hoo'ay ɗum."
+  },
+  "Can I pay by card": {
+    "fr": "Puis-je payer par carte",
+    "tw": "So metumi de kar ama?",
+    "ee": "Ðe mate ŋu axe fe to kadodoa dzia?",
+    "hau": "Zan iya biya da katin bashi?",
+    "fuv": "Mi waawataa hokkude ceede e kaardi"
+  },
+  "Do you accept mobile money": {
+    "fr": "Acceptez-vous l'argent mobile",
+    "tw": "Wugye sika fi fon so anaa?",
+    "ee": "Ðe nèlɔ̃na be yewoaxɔ ga le asitelefon dzia?",
+    "hau": "Kuna karɓar kuɗin wayar hannu?",
+    "fuv": "A jaɓii ceede mobile"
+  },
+  "I want a receipt": {
+    "fr": "Je veux un reçu",
+    "tw": "Mepɛ adansedi",
+    "ee": "Medi gaɖegbalẽvi",
+    "hau": "Ina son rasit.",
+    "fuv": "Mi yiɗi ceede"
+  },
+  "I want a refund": {
+    "fr": "Je veux un remboursement",
+    "tw": "Mepɛ sɛ wotua me ka",
+    "ee": "Medi be woagbugbɔe na wò.",
+    "hau": "Ina son a mayar da ni",
+    "fuv": "Mi yiɗi ceede"
+  },
+  "I need a taxi": {
+    "fr": "J'ai besoin d'un taxi",
+    "tw": "Mehia taksi",
+    "ee": "Mehiã taksi.",
+    "hau": "Ina bukatan taksi",
+    "fuv": "Mi yiɗi taksi"
+  },
+  "Take me to Accra": {
+    "fr": "Emmenez-moi à Accra",
+    "tw": "Fa me kɔ Accra",
+    "ee": "Kplɔm yi Accra",
+    "hau": "Ka kai ni zuwa Accra",
+    "fuv": "Yahu am haa Accra"
+  },
+  "Take me to Kumasi": {
+    "fr": "Emmenez-moi à Kumasi",
+    "tw": "Fa me kɔ Kumasi",
+    "ee": "Kplɔm yi Kumasi",
+    "hau": "Ka kai ni zuwa Kumasi.",
+    "fuv": "Jaɓɓorgo Kumasi"
+  },
+  "How much is the fare": {
+    "fr": "Combien coûte le tarif",
+    "tw": "Kɔnsɔnkɔnsɔn no bo bɛyɛ sɛn?",
+    "ee": "Ga agbɔsɔsɔme kae nyea?",
+    "hau": "Nawa ne kudin tafiya?",
+    "fuv": "How much is the fare"
+  },
+  "How long is the journey": {
+    "fr": "Combien de temps dure le voyage",
+    "tw": "Ɔkwan no tenten bɛyɛ dɛn?",
+    "ee": "Ɣeyiɣi didi kae mɔzɔzɔa axɔ?",
+    "hau": "Yaya tsawon tafiya yake?",
+    "fuv": "How long is the journey is? Fuuɗde nden ko juutde"
+  },
+  "When does the bus leave": {
+    "fr": "Quand est-ce que le bus part",
+    "tw": "Bere bɛn na bɔs no fi hɔ?",
+    "ee": "Ɣekaɣie ʋua dzona?",
+    "hau": "Yaushe bas ya tashi?",
+    "fuv": "Nde otobusi fuɗɗii"
+  },
+  "I missed my bus": {
+    "fr": "J'ai raté mon bus",
+    "tw": "Mekae me bɔs no",
+    "ee": "Nye ʋua bu nam",
+    "hau": "Na rasa bas na",
+    "fuv": "Mi wurtini otobusi am"
+  },
+  "My luggage is lost": {
+    "fr": "Mes bagages sont perdus",
+    "tw": "Me de no ayera",
+    "ee": "Nye mɔzɔzɔa bu.",
+    "hau": "Abincina ya ɓace",
+    "fuv": "Ko'e am majjitii."
+  },
+  "I am a tourist": {
+    "fr": "Je suis un touriste",
+    "tw": "Meyɛ ɔsramhwɛfo",
+    "ee": "Tsaɖilae menye",
+    "hau": "Ni mai yawon bude ido ne",
+    "fuv": "Miɗo wondi turista"
+  },
+  "I am lost": {
+    "fr": "Je suis perdu",
+    "tw": "Me werɛ ahow",
+    "ee": "Mebu fɔ ɖokuinye.",
+    "hau": "Na ɓace",
+    "fuv": "Mi majjini"
+  },
+  "Turn left": {
+    "fr": "Tourner à gauche",
+    "tw": "Kɔ benkum",
+    "ee": "Zɔ ɖe miame",
+    "hau": "Ka juya zuwa hagu",
+    "fuv": "Daartol haa nano"
+  },
+  "Turn right": {
+    "fr": "Tourner à droite",
+    "tw": "Kɔ nifa",
+    "ee": "Zɔ ɖe ɖusime",
+    "hau": "Ka juya zuwa dama",
+    "fuv": "Fuli haa nyaamo"
+  },
+  "Go straight": {
+    "fr": "Aller tout droit",
+    "tw": "Kɔ anim tẽẽ",
+    "ee": "Yi tẽe",
+    "hau": "Ka tafi madaidaiciya",
+    "fuv": "Njaɓu gooŋga."
+  },
+  "Stop here": {
+    "fr": "Arrêtez-vous ici.",
+    "tw": "Gyina ha",
+    "ee": "Zɔ ɖe afi sia",
+    "hau": "Ka tsaya a nan",
+    "fuv": "Stop ɗoon"
+  },
+  "Wait for me": {
+    "fr": "Attends-moi.",
+    "tw": "Twɛn me",
+    "ee": "Minɔ lalam.",
+    "hau": "Ka jira ni",
+    "fuv": "Tawa ngam am"
+  },
+  "I have a reservation": {
+    "fr": "J'ai une réservation",
+    "tw": "Mewɔ nsrahwɛ bi",
+    "ee": "Mewɔ ɖoɖo aɖe.",
+    "hau": "Ina da ajiyar wuri",
+    "fuv": "Mi woodi reservatingol"
+  },
+  "Check in please": {
+    "fr": "Check in s'il vous plaît",
+    "tw": "Yɛsrɛ wo, kɔhwehwɛ mu",
+    "ee": "Míeɖe kuku, dzro ɖokuiwò me",
+    "hau": "Da fatan za a shiga",
+    "fuv": "Wondondondiraama, torraama"
+  },
+  "I have a meeting": {
+    "fr": "J'ai une réunion",
+    "tw": "Mewɔ nhyiam bi",
+    "ee": "Mewɔ kpekpe aɖe.",
+    "hau": "Ina da taro",
+    "fuv": "Mi woodi kawtal"
+  },
+  "I am looking for work": {
+    "fr": "Je suis à la recherche d'un emploi",
+    "tw": "Merehwehwɛ adwuma",
+    "ee": "Mele dɔ dim",
+    "hau": "Ina neman aiki",
+    "fuv": "Mi ɗaɓɓito golle"
+  },
+  "I want to place an order": {
+    "fr": "Je veux passer une commande",
+    "tw": "Mepɛ sɛ mehyɛ biribi",
+    "ee": "Medi be maɖo gbeɖegbeɖe",
+    "hau": "Ina so in yi oda",
+    "fuv": "Mi yiɗi waɗugo umroore"
+  },
+  "When can you deliver": {
+    "fr": "Quand pouvez-vous livrer",
+    "tw": "Bere bɛn na wubetumi de aba?",
+    "ee": "Ɣekaɣie nàte ŋu ana",
+    "hau": "Yaushe za ka iya bayarwa",
+    "fuv": "Ndey a waawi hokkugo"
+  },
+  "Please sign here": {
+    "fr": "S'il vous plaît signer ici",
+    "tw": "Yɛsrɛ wo, kyerɛw ha",
+    "ee": "Míeɖe kuku da asi ɖe afi sia",
+    "hau": "Da fatan za a sanya hannu a nan",
+    "fuv": "Toonde foondini ɗoon"
+  },
+  "The payment has been made": {
+    "fr": "Le paiement a été effectué",
+    "tw": "Wɔayɛ akatua no",
+    "ee": "Wotsɔ ga la na wo",
+    "hau": "An biya bashin",
+    "fuv": "Jaɓɓorgo Ganndal"
+  },
+  "I need a quotation": {
+    "fr": "J'ai besoin d'un devis",
+    "tw": "Mepɛ asɛm bi",
+    "ee": "Mehiã nyagbɔgblɔ aɖe",
+    "hau": "Ina bukatan takarda",
+    "fuv": "Mi yiɗi jaɓɓorgo"
+  },
+  "I agree to the terms": {
+    "fr": "Je suis d'accord avec les termes",
+    "tw": "Megye nsɛm no atom",
+    "ee": "Melɔ̃ ɖe seawo dzi",
+    "hau": "Na yarda da sharuddan",
+    "fuv": "Mi jaɓii haala"
+  },
+  "What is your phone number": {
+    "fr": "Quel est votre numéro de téléphone",
+    "tw": "Wo din de sɛn?",
+    "ee": "Nu kae nye wò asitelefon xexlẽdzesi?",
+    "hau": "Menene lambar wayarka?",
+    "fuv": "Ɗuum woni limngal telefoŋ maaɗa?"
+  },
+  "I will call you back": {
+    "fr": "Je te rappellerai",
+    "tw": "Mɛsan aba abɛfrɛ wo",
+    "ee": "Mayɔ wò ake",
+    "hau": "Zan kira ka daga baya",
+    "fuv": "Mi noddiray on"
+  },
+  "I want to learn": {
+    "fr": "Je veux apprendre",
+    "tw": "Mepɛ sɛ misua",
+    "ee": "Medi be masrɔ̃",
+    "hau": "Ina so in koya",
+    "fuv": "Mi yiɗi janngugo"
+  },
+  "I do not understand the lesson": {
+    "fr": "Je ne comprends pas la leçon",
+    "tw": "Mente asuade no ase",
+    "ee": "Nyemese nufiamea gɔme o",
+    "hau": "Ban fahimci darasin ba",
+    "fuv": "Mi faamaay ekkitinol ngol"
+  },
+  "I have homework": {
+    "fr": "J'ai des devoirs",
+    "tw": "Mewɔ sukuu dwumadi bi",
+    "ee": "Dɔdeasiwo le asinye.",
+    "hau": "Ina da aikin gida.",
+    "fuv": "Mi woodi kuugal wuro"
+  },
+  "I passed the exam": {
+    "fr": "J'ai réussi l'examen",
+    "tw": "Migyinaa sɔhwɛ no so",
+    "ee": "Meɖu dodokpɔa dzi",
+    "hau": "Na wuce jarrabawa",
+    "fuv": "Mi wurtini teskaaku"
+  },
+  "I failed the exam": {
+    "fr": "J'ai échoué à l'examen",
+    "tw": "Mempam sɔhwɛ no",
+    "ee": "Meɖu dodokpɔa dzi",
+    "hau": "Na kasa jarrabawa.",
+    "fuv": "Mi wurtini teskaaku"
+  },
+  "I graduated": {
+    "fr": "Je suis diplômé",
+    "tw": "Miwiee sukuu",
+    "ee": "Mewu suku nu",
+    "hau": "Na sauke karatu",
+    "fuv": "Mi wurtinaama"
+  },
+  "I need school fees": {
+    "fr": "J'ai besoin de frais de scolarité",
+    "tw": "Mehia sukuu ho akatua",
+    "ee": "Mehiã suku fewo",
+    "hau": "Ina bukatar kudin makaranta",
+    "fuv": "Mi yiɗi jaaynde lekki"
+  },
+  "God bless you": {
+    "fr": "Que Dieu vous bénisse",
+    "tw": "Onyankopɔn nhyira wo",
+    "ee": "Mawu nayra wò.",
+    "hau": "Allah ya albarkace ku.",
+    "fuv": "Allah barkiɗini on"
+  },
+  "God is good": {
+    "fr": "Dieu est bon",
+    "tw": "Onyankopɔn ye",
+    "ee": "Mawu nyoa dɔme",
+    "hau": "Allah mai kyau ne.",
+    "fuv": "Allah woni belɗo"
+  },
+  "Praise God": {
+    "fr": "Dieu soit loué",
+    "tw": "Kamfo Onyankopɔn",
+    "ee": "Kafu Mawu",
+    "hau": "Ku Yabi Allah",
+    "fuv": "Yimɓe teddina Allah"
+  },
+  "Peace be with you": {
+    "fr": "Que la paix soit avec vous",
+    "tw": "Asomdwoe nka mo",
+    "ee": "Ŋutifafa nanɔ anyi kpli wò.",
+    "hau": "Salama ta tabbata a gare ku.",
+    "fuv": "Jam woni bee mooɗon."
+  },
+  "Have a blessed day": {
+    "fr": "Avoir une journée bénie",
+    "tw": "Da a nhyira wom nka wo",
+    "ee": "Ŋkeke nyui na wò.",
+    "hau": "Ka kasance da rana mai albarka.",
+    "fuv": "Goonga nyalnde belɗum"
+  },
+  "I am Christian": {
+    "fr": "Je suis Christian",
+    "tw": "Meyɛ Kristoni",
+    "ee": "Kristotɔwoe menye",
+    "hau": "Ni Kirista ne",
+    "fuv": "Mi Christian"
+  },
+  "I am Muslim": {
+    "fr": "Je suis musulman",
+    "tw": "Meyɛ Moslemni",
+    "ee": "Moslem menye",
+    "hau": "Ni Musulmi ne",
+    "fuv": "Mi woni Musulmanaaɗo"
+  },
+  "I am going to church": {
+    "fr": "Je vais à l'église",
+    "tw": "Mɛkɔ asɔre",
+    "ee": "Meyina sɔleme",
+    "hau": "Zan je coci",
+    "fuv": "Mi ɗon njaha haa coci"
+  },
+  "I am fasting": {
+    "fr": "Je suis à jeun",
+    "tw": "Meredi mmuada",
+    "ee": "Metsi nu dɔ",
+    "hau": "Ina azumi",
+    "fuv": "Mi ɗon nyaama"
+  },
+  "Happy Easter": {
+    "fr": "Joyeuses Pâques",
+    "tw": "Anigye Páscoa",
+    "ee": "Fiẽnuɖuɖu Nyui",
+    "hau": "Kirsimeti Mai Farin Ciki",
+    "fuv": "Nyannde Pasaka booɗɗum"
+  },
+  "Happy Christmas": {
+    "fr": "Joyeux Noël",
+    "tw": "Buronya Pa",
+    "ee": "Kristmas Nyuiwo",
+    "hau": "Kirsimeti Mai Kyau",
+    "fuv": "Nyalnde juulde mawnde"
+  },
+  "Happy New Year": {
+    "fr": "Bonne année",
+    "tw": "Afe Foforo Pa",
+    "ee": "Ƒe Yeye Nyuie",
+    "hau": "Barka da Sabuwar Shekara",
+    "fuv": "Happy New Year"
+  },
+  "Happy birthday": {
+    "fr": "Joyeux anniversaire",
+    "tw": "Nhyira ne w'awoda",
+    "ee": "Dzidzɔ geɖe na wò",
+    "hau": "Barka da ranar haihuwa",
+    "fuv": "Happy birthday"
+  },
+  "I am praying for you": {
+    "fr": "Je prie pour toi",
+    "tw": "Merebɔ mpae ama wo",
+    "ee": "Mele gbe dom ɖa ɖe tawò",
+    "hau": "Ina addu'a a gare ku.",
+    "fuv": "Mi ɗon toro ngam maaɗa"
+  },
+  "The funeral is tomorrow": {
+    "fr": "Les funérailles sont demain",
+    "tw": "Awiei no yɛ ɔkyena",
+    "ee": "Kwasiɖa nye etsɔ",
+    "hau": "A jana'izar ne gobe",
+    "fuv": "Ɓaŋgol ngol woni hande."
+  },
+  "I am sorry for your loss": {
+    "fr": "Je suis désolée pour ta perte",
+    "tw": "Mepa wo kyɛw",
+    "ee": "Meɖe kuku ɖe wò ku ta",
+    "hau": "Na yi nadamar asararku",
+    "fuv": "Mi ɗon wuuri ngam maayi ma."
+  },
+  "May their soul rest in peace": {
+    "fr": "Que leur âme repose en paix",
+    "tw": "Ma wɔn kra ntɔ asomdwoe mu",
+    "ee": "Ne woƒe luʋɔ nanɔ anyi le ŋutifafa me",
+    "hau": "Bari ruhunsu ya huta cikin salama.",
+    "fuv": "May their soul rest in peace be in peace be in peace"
+  },
+  "The wedding is on Saturday": {
+    "fr": "Le mariage est le samedi",
+    "tw": "Ayeforohyia no yɛ homeda",
+    "ee": "Srɔ̃ɖeɖea le Memleɖa dzi",
+    "hau": "Bikin aure ne a ranar Asabar",
+    "fuv": "Kawtal woni nder Asaar."
+  },
+  "We are celebrating": {
+    "fr": "Nous célébrons",
+    "tw": "Yɛrehyɛ afahyɛ",
+    "ee": "Míele azã ɖum",
+    "hau": "Muna bikin",
+    "fuv": "En ɗon mawnina"
+  },
+  "Help": {
+    "fr": "Aide",
+    "tw": "Mmoa",
+    "ee": "Kpekpeɖeŋu",
+    "hau": "Taimako",
+    "fuv": "Wallude"
+  },
+  "Help me": {
+    "fr": "Aide-moi.",
+    "tw": "Boa me!",
+    "ee": "Kpe ɖe ŋunye!",
+    "hau": "Ka taimake ni.",
+    "fuv": "Wallude am"
+  },
+  "I need help": {
+    "fr": "J'ai besoin d'aide",
+    "tw": "Mehia mmoa",
+    "ee": "Mehiã kpekpeɖeŋu",
+    "hau": "Ina bukatan taimako",
+    "fuv": "Mi yiɗi wallude"
+  },
+  "Emergency": {
+    "fr": "Urgence",
+    "tw": "Atoyerɛnkyɛm",
+    "ee": "Nɔnɔme kpata",
+    "hau": "Matsalar gaggawa",
+    "fuv": "Ɗuɗal ngal"
+  },
+  "Fire": {
+    "fr": "Feu",
+    "tw": "ogya",
+    "ee": "Dzo",
+    "hau": "Wuta",
+    "fuv": "Yiite"
+  },
+  "There is a fire": {
+    "fr": "Il y a un feu",
+    "tw": "Wɔrehyew ogya",
+    "ee": "Dzo aɖe le dodom.",
+    "hau": "Akwai wuta",
+    "fuv": "Woodi yiite"
+  },
+  "Call the police": {
+    "fr": "Appelez la police",
+    "tw": "Yɛfrɛ polisifo",
+    "ee": "Na kpovitɔwo",
+    "hau": "Ka kira 'yan sanda",
+    "fuv": "Wonnde polis"
+  },
+  "I have been robbed": {
+    "fr": "j'ai été dévalisé",
+    "tw": "Wɔabɔ me korɔn",
+    "ee": "Wofiam",
+    "hau": "An sace ni",
+    "fuv": "Mi laɓɓinaama"
+  },
+  "My phone was stolen": {
+    "fr": "Mon téléphone a été volé",
+    "tw": "Wɔwiaa me fon no",
+    "ee": "Wofi nye asitelefon",
+    "hau": "An sace wayata",
+    "fuv": "Ɗerewol am ɓornii"
+  },
+  "My wallet was stolen": {
+    "fr": "Mon portefeuille a été volé",
+    "tw": "Wɔwiaa me kotoku no",
+    "ee": "Wofi nye gaku la",
+    "hau": "An sace walat na",
+    "fuv": "Ɓooyni limce am"
+  },
+  "I lost my passport": {
+    "fr": "J'ai perdu mon passeport",
+    "tw": "M'akwantu no yerae",
+    "ee": "Mebu nye mɔzɔgbalẽa.",
+    "hau": "Na rasa fasfo na",
+    "fuv": "Mi wurtini passport am"
+  },
+  "There has been an accident": {
+    "fr": "Il y a eu un accident",
+    "tw": "Atoyerɛnkyɛm bi asi",
+    "ee": "Kuxi aɖe dzɔ.",
+    "hau": "Akwai wani hatsari",
+    "fuv": "Ɗuum waɗii kañum"
+  },
+  "Someone is hurt": {
+    "fr": "Quelqu'un est blessé",
+    "tw": "Obi apira",
+    "ee": "Ame aɖe le nu xam",
+    "hau": "Wani ya ji rauni.",
+    "fuv": "Gooduɗo woodaa"
+  },
+  "The car broke down": {
+    "fr": "La voiture est tombée en panne",
+    "tw": "Kar no sɛee",
+    "ee": "Ʋua gblẽ",
+    "hau": "Motar ta lalace",
+    "fuv": "Karal ngal majjini"
+  },
+  "I have a flat tyre": {
+    "fr": "J'ai un pneu crevé",
+    "tw": "M'abobɔde nyɛ den",
+    "ee": "Nye gliawo le ƒuƒlu",
+    "hau": "Ina da taya mara kyau",
+    "fuv": "Mi woodi ɓooyɗe ɓamɗe"
+  },
+  "I am in danger": {
+    "fr": "Je suis en danger",
+    "tw": "Mewɔ asiane mu",
+    "ee": "Mele afɔku me.",
+    "hau": "Ina cikin hatsari",
+    "fuv": "Mi ɗon nder halleende"
+  },
+  "Please save me": {
+    "fr": "Sauvez-moi s'il vous plaît",
+    "tw": "Mesrɛ wo, gye me nkwa",
+    "ee": "Meɖe kuku kpɔ nye agbe ta",
+    "hau": "Don Allah ka cece ni",
+    "fuv": "Wondon hisna am"
+  },
+  "I am angry": {
+    "fr": "Je suis en colère",
+    "tw": "Me bo afuw",
+    "ee": "Dzi le ƒonye.",
+    "hau": "Ina fushi",
+    "fuv": "Mi ɗon masin"
+  },
+  "I am scared": {
+    "fr": "J'ai peur",
+    "tw": "Misuro",
+    "ee": "Mevɔ̃na",
+    "hau": "Ina jin tsoro",
+    "fuv": "Mi huli"
+  },
+  "I am worried": {
+    "fr": "Je suis inquiet",
+    "tw": "Me ho yeraw me",
+    "ee": "Metsi dzimaɖi",
+    "hau": "Ina damuwa",
+    "fuv": "Mi ɗon hakkilana"
+  },
+  "I am stressed": {
+    "fr": "je suis stressé",
+    "tw": "M'abam abu",
+    "ee": "Metsi dzimaɖi ŋutɔ",
+    "hau": "Ina cikin damuwa",
+    "fuv": "Mi ɗon ɓeyda"
+  },
+  "I am confused": {
+    "fr": "Je suis confuse",
+    "tw": "M'adwene nhyia",
+    "ee": "Mele dzodzom.",
+    "hau": "Na rikice",
+    "fuv": "Mi ɗon hawta."
+  },
+  "I am exhausted": {
+    "fr": "Je suis épuisée",
+    "tw": "M'abam abu",
+    "ee": "Nu te ɖe dzinye ŋutɔ.",
+    "hau": "Na gaji",
+    "fuv": "Mi ɓeydaani"
+  },
+  "I miss you": {
+    "fr": "Tu me manques",
+    "tw": "M'ani agyina wo",
+    "ee": "Míelɔ̃ wò ŋutɔ.",
+    "hau": "Ina bukatan ka",
+    "fuv": "Miɗo haani on"
+  },
+  "I love you": {
+    "fr": "Je t'aime",
+    "tw": "Medɔ wo",
+    "ee": "Melɔ̃ wò ŋutɔ",
+    "hau": "Ina ƙaunarka",
+    "fuv": "Mi yiɗi ma"
+  },
+  "I am proud of you": {
+    "fr": "Je suis fier de toi",
+    "tw": "M'ani gye wo ho",
+    "ee": "Dzi dzɔam ɖe dziwò ŋutɔ.",
+    "hau": "Ina alfahari da kai",
+    "fuv": "Mi ɗon teddina on"
+  },
+  "Do not give up": {
+    "fr": "N'abandonnez pas",
+    "tw": "Mma w'abam mmu",
+    "ee": "Mègana ta o",
+    "hau": "Kada ka yi sanyin gwiwa",
+    "fuv": "Taa tuubu"
+  },
+  "Stay strong": {
+    "fr": "Restez fort",
+    "tw": "Kɔ so yɛ den",
+    "ee": "Nɔ te sesĩe",
+    "hau": "Ka kasance da ƙarfi",
+    "fuv": "Ngaree semmbe"
+  },
+  "Everything will be fine": {
+    "fr": "Tout ira bien",
+    "tw": "Biribiara bɛyɛ yiye",
+    "ee": "Nu sia nu ayi edzi nyuie",
+    "hau": "Duk abin zai kasance lafiya.",
+    "fuv": "Koo ɗume laatoto boɗɗum."
+  },
+  "You can do it": {
+    "fr": "Tu peux le faire",
+    "tw": "Wubetumi ayɛ",
+    "ee": "Àte ŋu awɔe",
+    "hau": "Za ka iya yin hakan.",
+    "fuv": "On mbaawataa waɗugo ɗum"
+  },
+  "I believe in you": {
+    "fr": "Je crois en toi",
+    "tw": "Migye wo di",
+    "ee": "Mexɔ wò dzi se",
+    "hau": "Na yi imani da kai",
+    "fuv": "Mi hoolaaki on"
+  },
+  "It is raining": {
+    "fr": "Il pleut",
+    "tw": "Osutɔ retɔ",
+    "ee": "Tsi le dzadza ge",
+    "hau": "Yana ruwan sama",
+    "fuv": "Ɗo ɗon waɗa ndiyam."
+  },
+  "It is sunny": {
+    "fr": "Il fait beau.",
+    "tw": "Ɛyɛ owia",
+    "ee": "Ɣe le keklẽm",
+    "hau": "Yana da rana.",
+    "fuv": "Ɗum naange"
+  },
+  "It is very hot": {
+    "fr": "Il fait très chaud.",
+    "tw": "Ɛyɛ hyew paa",
+    "ee": "Enye dzoxɔxɔ ŋutɔ.",
+    "hau": "Yana da zafi sosai.",
+    "fuv": "Ɗum ɗon hokka masin."
+  },
+  "The weather is nice": {
+    "fr": "Le temps est beau",
+    "tw": "Emu yɛ dɛ",
+    "ee": "Ɣea nyo ŋutɔ.",
+    "hau": "Yanayi yana da kyau",
+    "fuv": "Huunde nden ɗon laaɓta"
+  },
+  "There is a flood": {
+    "fr": "Il y a une inondation",
+    "tw": "Nsuyire bi reba",
+    "ee": "Tsiɖɔɖɔ aɖe li",
+    "hau": "Akwai ambaliyar ruwa",
+    "fuv": "Ɗu'um ɗon wara ndiyam"
+  },
+  "Plant the seeds": {
+    "fr": "Plantez les graines",
+    "tw": "Dua aba no",
+    "ee": "Miƒã nukuwo",
+    "hau": "Ka shuka iri",
+    "fuv": "Fuuɗugo leɗɗe"
+  },
+  "The harvest is good": {
+    "fr": "La récolte est bonne",
+    "tw": "Otwa adwuma no ayɛ yiye",
+    "ee": "Nuŋeŋedɔa nyo",
+    "hau": "Girbi yana da kyau",
+    "fuv": "Ɓuuru ɗon nyaama"
+  },
+  "Do not litter": {
+    "fr": "Ne pas jeter",
+    "tw": "Mommfa mo ho nnhyehyɛ",
+    "ee": "Mègatsɔe aƒu gbe o",
+    "hau": "Kada ku zubar da shara",
+    "fuv": "Taa wurtina"
+  },
+  "Save water": {
+    "fr": "Économiser l'eau",
+    "tw": "Monhwɛ nsu so",
+    "ee": "Tsi dzra ɖo",
+    "hau": "Adana ruwa",
+    "fuv": "Hokka ndiyam"
+  },
+  "Plant more trees": {
+    "fr": "Plantez plus d'arbres",
+    "tw": "Fa nnua pii dua",
+    "ee": "Miƒã ati geɖe wu",
+    "hau": "Ka dasa ƙarin itatuwa",
+    "fuv": "Ɓeyda lekki"
+  },
+  "My phone is dead": {
+    "fr": "Mon téléphone est mort",
+    "tw": "Me fon no awu",
+    "ee": "Nye asitelefon la do kpoo.",
+    "hau": "Wayata ta kashe.",
+    "fuv": "Ɗerewol am maayi."
+  },
+  "I need to charge my phone": {
+    "fr": "Je dois charger mon téléphone",
+    "tw": "Ɛsɛ sɛ mehyɛ me fon so",
+    "ee": "Ehiã be maɖo nye asitelefon ŋu",
+    "hau": "Ina bukatar in caji wayata",
+    "fuv": "Miɗo haani hokkugo telefon am semmbe"
+  },
+  "Do you have wifi": {
+    "fr": "Vous possédez ou gérez cet établissement?",
+    "tw": "Wowɔ wifi?",
+    "ee": "Ðe wifi le asiwòa?",
+    "hau": "Kuna da WiFi?",
+    "fuv": "On woodi wifi"
+  },
+  "What is the wifi password": {
+    "fr": "Qu'est-ce que le mot de passe wifi",
+    "tw": "Wifi din no ne sɛn?",
+    "ee": "Nu kae nye wifi ƒe nyagbɔgblɔ?",
+    "hau": "Mene ne kalmar sirri ta wifi",
+    "fuv": "Ko honɗun woni password wifi"
+  },
+  "The internet is slow": {
+    "fr": "Internet est lent",
+    "tw": "Intanɛt nyɛ den",
+    "ee": "Internet le blewu ge",
+    "hau": "Intanet tana da jinkiri",
+    "fuv": "Internet ɗon ɓeyda"
+  },
+  "My battery is low": {
+    "fr": "Ma batterie est faible",
+    "tw": "M'afiri no ano ayɛ den",
+    "ee": "Nye asitelefon dzi ɖe kpɔtɔ.",
+    "hau": "Batirin na ya ƙare.",
+    "fuv": "Batteeri am ɗon maaki."
+  },
+  "Send me on whatsapp": {
+    "fr": "Envoyez-moi sur WhatsApp",
+    "tw": "Soma me wɔ WhatsApp so",
+    "ee": "Zɔm le whatsapp dzi",
+    "hau": "Ka aiko min da whatsapp",
+    "fuv": "Wurtammi dow whatsapp"
+  },
+  "Call me back": {
+    "fr": "Rappelle-moi.",
+    "tw": "So frɛ me bio?",
+    "ee": "Eyome yɔm",
+    "hau": "Ka sake kirana.",
+    "fuv": "Wondini yam."
+  },
+  "Today": {
+    "fr": "Aujourd'hui",
+    "tw": "Ɛnnɛ",
+    "ee": "Egbea",
+    "hau": "A yau",
+    "fuv": "Hannde"
+  },
+  "Tomorrow": {
+    "fr": "Demain",
+    "tw": "Ɔkyena",
+    "ee": "Etsɔ",
+    "hau": "Gobe",
+    "fuv": "Nyalnde hande"
+  },
+  "Yesterday": {
+    "fr": "Hier",
+    "tw": "Anadwo",
+    "ee": "Etsɔ",
+    "hau": "A jiya",
+    "fuv": "Nyalnde"
+  },
+  "Monday": {
+    "fr": "Lundi",
+    "tw": "Memeneda",
+    "ee": "Kwasiɖa",
+    "hau": "Litinin",
+    "fuv": "Lundi"
+  },
+  "Tuesday": {
+    "fr": "Mardi",
+    "tw": "Wukuda",
+    "ee": "Kwasiɖa",
+    "hau": "Talata",
+    "fuv": "Nyannde tataɓre"
+  },
+  "Wednesday": {
+    "fr": "Mercredi",
+    "tw": "Wukuda",
+    "ee": "Kwasiɖa",
+    "hau": "Ranar Laraba",
+    "fuv": "Nyalnde arde"
+  },
+  "Thursday": {
+    "fr": "Jeudi",
+    "tw": "Dwoda",
+    "ee": "Kwasiɖa",
+    "hau": "Alhamis",
+    "fuv": "Alhamis"
+  },
+  "Friday": {
+    "fr": "Vendredi",
+    "tw": "Fida",
+    "ee": "Fiɖa",
+    "hau": "Jumma'a",
+    "fuv": "Nyalnde jemma"
+  },
+  "Saturday": {
+    "fr": "Samedi",
+    "tw": "Homeda",
+    "ee": "Kwasiɖa",
+    "hau": "Ranar Asabar",
+    "fuv": "Nyannde Asaar"
+  },
+  "Sunday": {
+    "fr": "Dimanche",
+    "tw": "Kwasida",
+    "ee": "Kwasiɖa",
+    "hau": "Lahadi",
+    "fuv": "Nyalnde"
+  },
+  "January": {
+    "fr": "Janvier",
+    "tw": "January",
+    "ee": "January",
+    "hau": "Janairu",
+    "fuv": "Nyalnde lewru"
+  },
+  "February": {
+    "fr": "Février",
+    "tw": "February",
+    "ee": "February",
+    "hau": "Fabrairu",
+    "fuv": "Feebariiru"
+  },
+  "March": {
+    "fr": "Mars",
+    "tw": "March",
+    "ee": "March",
+    "hau": "Maris",
+    "fuv": "Marsi"
+  },
+  "April": {
+    "fr": "Avril",
+    "tw": "April",
+    "ee": "April",
+    "hau": "Afrilu",
+    "fuv": "April"
+  },
+  "May": {
+    "fr": "Mai",
+    "tw": "May",
+    "ee": "May",
+    "hau": "Ranar Mayu",
+    "fuv": "May"
+  },
+  "June": {
+    "fr": "Juin",
+    "tw": "June",
+    "ee": "June",
+    "hau": "Yuni",
+    "fuv": "Juun"
+  },
+  "July": {
+    "fr": "Juillet",
+    "tw": "July",
+    "ee": "July",
+    "hau": "Yuli",
+    "fuv": "Julaay"
+  },
+  "August": {
+    "fr": "Août",
+    "tw": "August",
+    "ee": "August",
+    "hau": "Agusta",
+    "fuv": "August"
+  },
+  "September": {
+    "fr": "Septembre",
+    "tw": "September",
+    "ee": "September",
+    "hau": "Satumba",
+    "fuv": "Septeemburu"
+  },
+  "October": {
+    "fr": "Octobre",
+    "tw": "October",
+    "ee": "October",
+    "hau": "Oktoba",
+    "fuv": "Oktoobar"
+  },
+  "November": {
+    "fr": "Novembre",
+    "tw": "November",
+    "ee": "November",
+    "hau": "Nuwamba",
+    "fuv": "Nuwambar"
+  },
+  "December": {
+    "fr": "Décembre",
+    "tw": "December",
+    "ee": "December",
+    "hau": "Disamba",
+    "fuv": "Diisambar"
+  },
+  "Do not be late": {
+    "fr": "Ne soyez pas en retard",
+    "tw": "Mommrɛ ntɛm",
+    "ee": "Mègatsi megbe o",
+    "hau": "Kada ka yi jinkiri",
+    "fuv": "Taa laatake"
+  },
+  "I will wait for you": {
+    "fr": "Je t'attendrai",
+    "tw": "Mɛtwɛn wo",
+    "ee": "Mele mɔ kpɔm na wò",
+    "hau": "Zan jira ka",
+    "fuv": "Mi ɗon duroo on"
+  },
+  "One": {
+    "fr": "Un",
+    "tw": "Obiako",
+    "ee": "Wo dometɔ ɖeka",
+    "hau": "Ɗaya",
+    "fuv": "Gooto"
+  },
+  "Two": {
+    "fr": "Deux",
+    "tw": "Mmienu",
+    "ee": "Eve",
+    "hau": "Biyu",
+    "fuv": "ɗiɗo"
+  },
+  "Three": {
+    "fr": "Trois",
+    "tw": "Mmiɛnsa",
+    "ee": "Ame etɔ̃",
+    "hau": "Uku",
+    "fuv": "Tawe tati"
+  },
+  "Four": {
+    "fr": "Quatre",
+    "tw": "Nnan",
+    "ee": "Afɔ ene",
+    "hau": "Hudu",
+    "fuv": "Ɗuurɗe nayi"
+  },
+  "Five": {
+    "fr": "Cinq",
+    "tw": "Anum",
+    "ee": "Ame atɔ̃",
+    "hau": "Biyar",
+    "fuv": "Jowitiiɗo"
+  },
+  "Six": {
+    "fr": "Six",
+    "tw": "Nsia",
+    "ee": "Ade",
+    "hau": "Shida",
+    "fuv": "Joweego"
+  },
+  "Seven": {
+    "fr": "Sept",
+    "tw": "Mfe ason",
+    "ee": "Adreawo",
+    "hau": "Bakwai",
+    "fuv": "Joweeɗiɗi"
+  },
+  "Eight": {
+    "fr": "Huit",
+    "tw": "Nwɔtwe",
+    "ee": "Aɖaŋu enyi",
+    "hau": "Na takwas",
+    "fuv": "Yimɓe sappo"
+  },
+  "Nine": {
+    "fr": "Neuf",
+    "tw": "Akron",
+    "ee": "Asieke",
+    "hau": "Tara",
+    "fuv": "9"
+  },
+  "Ten": {
+    "fr": "Dix",
+    "tw": "Mpɛn du",
+    "ee": "Ŋkeke ewo",
+    "hau": "Goma",
+    "fuv": "Yimɓe sappo"
+  },
+  "Twenty": {
+    "fr": "Vingt",
+    "tw": "Mpem aduonu",
+    "ee": "Ame blaeve",
+    "hau": "Biyar",
+    "fuv": "20"
+  },
+  "Fifty": {
+    "fr": "Cinquante",
+    "tw": "Mpem aduonum",
+    "ee": "Ame blaatɔ̃",
+    "hau": "Goma sha biyar",
+    "fuv": "Yimɓe cappanɗe joy"
+  },
+  "One hundred": {
+    "fr": "Cent",
+    "tw": "Ɔpɔn ɔha",
+    "ee": "Ame alafa ɖeka",
+    "hau": "Ɗari ɗari",
+    "fuv": "Ɗuurɗe teemeɗɗe"
+  },
+  "One thousand": {
+    "fr": "Mille",
+    "tw": "Mpempem",
+    "ee": "Ame akpe ɖeka",
+    "hau": "Goma dubu",
+    "fuv": "Fedde ujune"
+  },
+  "I have no money": {
+    "fr": "Je n'ai pas d'argent",
+    "tw": "Minni sika",
+    "ee": "Ga mele asinye o",
+    "hau": "Ba ni da kudi",
+    "fuv": "Mi walaa ceede"
+  },
+  "Mobile money": {
+    "fr": "Argent mobile",
+    "tw": "Sika a wɔde kɔ fon so",
+    "ee": "Ga le asitelefon dzi",
+    "hau": "Kudin wayar hannu",
+    "fuv": "Ceede mobile"
+  },
+  "Pay cash": {
+    "fr": "Payer en espèces",
+    "tw": "Sika a wɔde tua ka",
+    "ee": "Naxe fe le ga me",
+    "hau": "Biyan kuɗi a tsabar kudi",
+    "fuv": "Maɓɓa ceede"
+  },
+  "It is nearby": {
+    "fr": "Il est à proximité",
+    "tw": "Ɛbɛn hɔ",
+    "ee": "Ekpe ɖe mía ŋu.",
+    "hau": "Yana kusa.",
+    "fuv": "Ɗum ɓadake"
+  },
+  "It is far away": {
+    "fr": "C'est loin",
+    "tw": "Ɛwɔ akyirikyiri",
+    "ee": "Ele adzɔge ʋĩ.",
+    "hau": "Yana da nisa",
+    "fuv": "Ɗo ɗon haa yaasi"
+  },
+  "Upstairs": {
+    "fr": "À l'étage",
+    "tw": "Wɔ soro",
+    "ee": "Le dziƒoe.",
+    "hau": "A sama",
+    "fuv": "Haa dow"
+  },
+  "Downstairs": {
+    "fr": "En bas",
+    "tw": "Wɔkɔɔ fam",
+    "ee": "Le dziƒoxɔa dzi",
+    "hau": "A ƙasa",
+    "fuv": "Dow dow"
+  },
+  "Inside": {
+    "fr": "À l'intérieur",
+    "tw": "Ɛhɔ",
+    "ee": "Le eme",
+    "hau": "A ciki",
+    "fuv": "Nder nder"
+  },
+  "Outside": {
+    "fr": "Extérieur",
+    "tw": "Ɛhɔ",
+    "ee": "Le gota",
+    "hau": "A waje",
+    "fuv": "Ɓaawo"
+  },
+  "Good": {
+    "fr": "Bon",
+    "tw": "Ɛyɛ papa.",
+    "ee": "Enyo ŋutɔ.",
+    "hau": "Yana da kyau.",
+    "fuv": "Goɗɗum"
+  },
+  "Bad": {
+    "fr": "Mauvais",
+    "tw": "Ɛyɛ bɔne",
+    "ee": "Nu vɔ̃ɖi",
+    "hau": "Ba daidai ba",
+    "fuv": "Ko boni"
+  },
+  "Big": {
+    "fr": "Big",
+    "tw": "Ɛyɛ kɛse",
+    "ee": "Du gã aɖe",
+    "hau": "Mai girma",
+    "fuv": "Mawɗo"
+  },
+  "Small": {
+    "fr": "Petit",
+    "tw": "Nketewa",
+    "ee": "Ðeviwo",
+    "hau": "Ƙananan",
+    "fuv": "Ɗuɗol"
+  },
+  "Long": {
+    "fr": "Longue",
+    "tw": "Ɛdɔɔso",
+    "ee": "Ɣeyiɣi didi aɖe",
+    "hau": "Tsawon lokaci",
+    "fuv": "Ɗuurɗe"
+  },
+  "Short": {
+    "fr": "Court",
+    "tw": "Mfe tiawa",
+    "ee": "Ɣeyiɣi kpui",
+    "hau": "Gajeren lokaci",
+    "fuv": "Ɓurɗe"
+  },
+  "Hot": {
+    "fr": "Chaud",
+    "tw": "Ɛho yɛ hyew",
+    "ee": "Wodoa dzo",
+    "hau": "Mai zafi",
+    "fuv": "Ɗuɗol"
+  },
+  "Cold": {
+    "fr": "Froid",
+    "tw": "Asomdwoe",
+    "ee": "Ahomɔ",
+    "hau": "Rashin sanyi",
+    "fuv": "Fuude"
+  },
+  "Fast": {
+    "fr": "Rapide",
+    "tw": "Ɛyɛ ntɛm",
+    "ee": "Ʋu Ʋu",
+    "hau": "Da sauri",
+    "fuv": "Ndenndaare"
+  },
+  "Slow": {
+    "fr": "Lentement",
+    "tw": "Ankyɛ",
+    "ee": "Ʋuʋui",
+    "hau": "A hankali",
+    "fuv": "Ɓeydaaki"
+  },
+  "New": {
+    "fr": "Nouveau",
+    "tw": "Foforo",
+    "ee": "Nu Yeyewo",
+    "hau": "Sabuwar",
+    "fuv": "New"
+  },
+  "Old": {
+    "fr": "Vieux",
+    "tw": "Tetefo",
+    "ee": "Tsitsi",
+    "hau": "Tsoho",
+    "fuv": "Ɓeydiiɗo"
+  },
+  "Clean": {
+    "fr": "Propre",
+    "tw": "Ɛyɛ kronn",
+    "ee": "Klɔe",
+    "hau": "Mai tsabta",
+    "fuv": "Limtinol"
+  },
+  "Beautiful": {
+    "fr": "Belle",
+    "tw": "Ná ɛyɛ fɛ",
+    "ee": "Enye nu dzeani aɖe",
+    "hau": "Kyakkyawan",
+    "fuv": "Ɗuɗal mawnde"
+  },
+  "Strong": {
+    "fr": "Fort",
+    "tw": "Emu yɛ den",
+    "ee": "Ŋusẽtɔ",
+    "hau": "Ƙarfi",
+    "fuv": "Nguurndam"
+  },
+  "Weak": {
+    "fr": "Faible",
+    "tw": "Ɔyɛ mmerɛw",
+    "ee": "Gbɔdzɔgbɔdzɔ",
+    "hau": "Rashin ƙarfi",
+    "fuv": "Ɓaawɗo"
+  },
+  "Rich": {
+    "fr": "Riche",
+    "tw": "Ɔdefo",
+    "ee": "Kesinɔtɔwo",
+    "hau": "Mai arziki",
+    "fuv": "Yimɓe riskuɓe"
+  },
+  "Poor": {
+    "fr": "Pauvre",
+    "tw": "Ohiafo",
+    "ee": "Ame dahewo",
+    "hau": "Matalauta",
+    "fuv": "Mawɓe"
+  },
+  "Cheap": {
+    "fr": "Bon marché",
+    "tw": "Ɛnye sika pii",
+    "ee": "Woƒe asi mesɔ o",
+    "hau": "Farashi mai rahusa",
+    "fuv": "Ɗuɗol"
+  },
+  "Expensive": {
+    "fr": "Cher",
+    "tw": "Ɛdɔɔso",
+    "ee": "Gbegblẽ gã aɖe",
+    "hau": "Mai tsada",
+    "fuv": "Ɗuum mari ceede"
+  },
+  "Easy": {
+    "fr": "Facile",
+    "tw": "Ɛnyɛ den",
+    "ee": "Ele bɔbɔe.",
+    "hau": "Da sauƙi.",
+    "fuv": "Ɗuɗal laaɓal"
+  },
+  "Difficult": {
+    "fr": "Difficile",
+    "tw": "Ɛyɛ den",
+    "ee": "Esesẽna",
+    "hau": "Yana da wuya",
+    "fuv": "Waawde"
+  },
+  "Safe": {
+    "fr": "Coffre-fort",
+    "tw": "Ɛyɛ ahobammɔ",
+    "ee": "Nu si le dedie",
+    "hau": "Mai lafiya",
+    "fuv": "Haɓɓugo"
+  },
+  "Dangerous": {
+    "fr": "Dangereux",
+    "tw": "Ɛyɛ hu",
+    "ee": "Afɔku",
+    "hau": "Yana da haɗari",
+    "fuv": "Naawɗe"
+  },
+  "Correct": {
+    "fr": "Correct",
+    "tw": "Ɛyɛ nokware",
+    "ee": "Nyateƒee",
+    "hau": "Gaskiya ne",
+    "fuv": "Hakkiilo"
+  },
+  "Wrong": {
+    "fr": "Faux",
+    "tw": "Ɛyɛ mfomso",
+    "ee": "Ewɔ vodada",
+    "hau": "Ba daidai ba",
+    "fuv": "Hakkiilo"
+  },
+  "True": {
+    "fr": "Vrai",
+    "tw": "Ɛyɛ nokware",
+    "ee": "Nyateƒee",
+    "hau": "Gaskiya ne",
+    "fuv": "Goonga"
+  },
+  "False": {
+    "fr": "Faux",
+    "tw": "Atosɛm",
+    "ee": "Alakpanyawo",
+    "hau": "Ba gaskiya ba",
+    "fuv": "Goonga"
+  },
+  "Ready": {
+    "fr": "Prêt",
+    "tw": "Siesie wo ho",
+    "ee": "Míele klalo",
+    "hau": "A shirye",
+    "fuv": "Jaɓɓorgo Fuuta"
+  },
+  "Come": {
+    "fr": "Venez.",
+    "tw": "Bra",
+    "ee": "Va!",
+    "hau": "Ka zo",
+    "fuv": "Ngaree"
+  },
+  "Go": {
+    "fr": "Allez-y.",
+    "tw": "Kɔ!",
+    "ee": "Yi!",
+    "hau": "Ka tafi",
+    "fuv": "Yahugo"
+  },
+  "Stop": {
+    "fr": "Arrêter",
+    "tw": "Gyae!",
+    "ee": "Miɖe asi le eŋu.",
+    "hau": "Ka daina",
+    "fuv": "Saki ɗon"
+  },
+  "Wait": {
+    "fr": "Attendez.",
+    "tw": "Hwɛ!",
+    "ee": "Kpɔ ɖa!",
+    "hau": "Ka jira",
+    "fuv": "Tawa ɗon"
+  },
+  "Run": {
+    "fr": "Exécuter",
+    "tw": "Guan",
+    "ee": "Zɔ",
+    "hau": "Ka gudu",
+    "fuv": "Jaɓɓorgo"
+  },
+  "Walk": {
+    "fr": "Marcher",
+    "tw": "Nantew",
+    "ee": "Zɔzɔ",
+    "hau": "Ka yi tafiya",
+    "fuv": "Yahugo"
+  },
+  "Sit": {
+    "fr": "Assis",
+    "tw": "Tena ase",
+    "ee": "Nɔ anyi",
+    "hau": "Ka zauna",
+    "fuv": "njooɗii"
+  },
+  "Stand": {
+    "fr": "Stand",
+    "tw": "Gyina hɔ",
+    "ee": "Nɔ te sesĩe",
+    "hau": "Ka tsaya",
+    "fuv": "Ɗaarugo"
+  },
+  "Sleep": {
+    "fr": "Sommeil",
+    "tw": "Nna",
+    "ee": "Dɔ alɔ̃",
+    "hau": "Barci",
+    "fuv": "Njoofugo"
+  },
+  "Wake up": {
+    "fr": "Réveille-toi",
+    "tw": "Nyan!",
+    "ee": "Nyɔ!",
+    "hau": "Ka farka",
+    "fuv": "Wakkake"
+  },
+  "Eat": {
+    "fr": "Manger",
+    "tw": "Munni",
+    "ee": "Miɖu nu",
+    "hau": "Ka ci",
+    "fuv": "Nyaama"
+  },
+  "Drink": {
+    "fr": "Boisson",
+    "tw": "Monnom",
+    "ee": "No nu",
+    "hau": "Ka sha",
+    "fuv": "Yimɓe njari"
+  },
+  "Cook": {
+    "fr": "Cook",
+    "tw": "Fa aduan sie",
+    "ee": "Nuɖaɖa",
+    "hau": "Ka dafa abinci",
+    "fuv": "Koofugo"
+  },
+  "Buy": {
+    "fr": "Acheter",
+    "tw": "Kɔtɔ",
+    "ee": "Ƒle",
+    "hau": "Ka sayi",
+    "fuv": "Jaɓɓorgo Fuuta"
+  },
+  "Sell": {
+    "fr": "Vendre",
+    "tw": "Wɔtɔn",
+    "ee": "Ƒle",
+    "hau": "Sayarwa",
+    "fuv": "Jaɓɓorgo Fulfulde"
+  },
+  "Give": {
+    "fr": "Donner",
+    "tw": "Ma",
+    "ee": "Na",
+    "hau": "Ka ba",
+    "fuv": "hokkugo"
+  },
+  "Take": {
+    "fr": "Prendre",
+    "tw": "Fa no",
+    "ee": "Tsɔe",
+    "hau": "Ɗauki",
+    "fuv": "Jaɓɓorgo"
+  },
+  "Send": {
+    "fr": "Envoyer",
+    "tw": "Soma",
+    "ee": "Ɖoe ɖa",
+    "hau": "Ka aika",
+    "fuv": "Jaɓɓorgo"
+  },
+  "Work": {
+    "fr": "Travail",
+    "tw": "Adwuma",
+    "ee": "Dɔwɔwɔ",
+    "hau": "Aiki",
+    "fuv": "Kuugal"
+  },
+  "Rest": {
+    "fr": "Repos",
+    "tw": "Home",
+    "ee": "Gbɔɖeme",
+    "hau": "Hutu",
+    "fuv": "Fuuɗugo"
+  },
+  "Play": {
+    "fr": "Lecture",
+    "tw": "Di agorɔ",
+    "ee": "Wɔ dɔ",
+    "hau": "Ka yi wasa",
+    "fuv": "Jaŋde"
+  },
+  "Sing": {
+    "fr": "Sing",
+    "tw": "To dwom",
+    "ee": "Midzi ha",
+    "hau": "Ka raira waƙa",
+    "fuv": "Yimbe"
+  },
+  "Dance": {
+    "fr": "Danse",
+    "tw": "Danse",
+    "ee": "Hadzidzi",
+    "hau": "Ka yi rawa",
+    "fuv": "Yimɓe njogii"
+  },
+  "Read": {
+    "fr": "Lire",
+    "tw": "Kenkan",
+    "ee": "Xlẽe",
+    "hau": "Ka karanta",
+    "fuv": "Njaŋge"
+  },
+  "Write": {
+    "fr": "Écrire",
+    "tw": "Kyerɛw",
+    "ee": "Ŋlɔ nu",
+    "hau": "Ka rubuta",
+    "fuv": "Winndande"
+  },
+  "Listen": {
+    "fr": "Ecoute.",
+    "tw": "Tie me",
+    "ee": "Ðo to",
+    "hau": "Ka saurara",
+    "fuv": "Njaŋge"
+  },
+  "Speak": {
+    "fr": "Parler",
+    "tw": "Kasa",
+    "ee": "Ƒo nu",
+    "hau": "Ka yi magana",
+    "fuv": "Wolde"
+  },
+  "Call": {
+    "fr": "Appeler",
+    "tw": "Yɛfrɛ",
+    "ee": "Do ɣli",
+    "hau": "Kira",
+    "fuv": "Njaɓɓo"
+  },
+  "Open": {
+    "fr": "Ouvrir",
+    "tw": "Bɛbue",
+    "ee": "Ʋu",
+    "hau": "A buɗe",
+    "fuv": "Ɗuɓɓugo"
+  },
+  "Close": {
+    "fr": "Fermer",
+    "tw": "Ɛbɛn",
+    "ee": "Ðe eme",
+    "hau": "Kusa",
+    "fuv": "Caggal"
+  },
+  "Fix": {
+    "fr": "Corrigé",
+    "tw": "Gyinae",
+    "ee": "Ðoɖo",
+    "hau": "Gyara",
+    "fuv": "Jaɓɓorgo"
+  },
+  "Wash": {
+    "fr": "Lavage",
+    "tw": "Kɔhohoro",
+    "ee": "Klɔ",
+    "hau": "Wanke",
+    "fuv": "Laɓɓinugo"
+  },
+  "Build": {
+    "fr": "Construire",
+    "tw": "Siesie",
+    "ee": "Ðoƒewɔwɔ",
+    "hau": "Ƙirƙiri",
+    "fuv": "Haɓɓugo"
+  },
+  "Start": {
+    "fr": "Démarrage",
+    "tw": "Fi ase",
+    "ee": "Dze egɔme",
+    "hau": "Farawa",
+    "fuv": "Fuɗɗugo"
+  },
+  "Finish": {
+    "fr": "Terminer",
+    "tw": "Ma wowie",
+    "ee": "Nuwuwua",
+    "hau": "Ka gama",
+    "fuv": "Jaɓɓorgo Fulfulde"
+  },
+  "Return": {
+    "fr": "Retour",
+    "tw": "San kɔ",
+    "ee": "Tɔtrɔ",
+    "hau": "Komawa",
+    "fuv": "Daartol"
+  },
+  "Leave": {
+    "fr": "Congé",
+    "tw": "Fi hɔ",
+    "ee": "Dzo",
+    "hau": "Ka fita",
+    "fuv": "Yahugo"
+  },
+  "Know": {
+    "fr": "Savoir",
+    "tw": "Hu",
+    "ee": "Mianyae",
+    "hau": "Ka sani",
+    "fuv": "Anndinol"
+  },
+  "Understand": {
+    "fr": "Comprendre",
+    "tw": "Te ase",
+    "ee": "Se egɔme",
+    "hau": "Fahimci",
+    "fuv": "Ngam faamugo"
+  },
+  "Remember": {
+    "fr": "Rappelez-vous",
+    "tw": "Kae sɛ",
+    "ee": "Ðo ŋku edzi",
+    "hau": "Ka tuna",
+    "fuv": "Nganndi"
+  },
+  "Learn": {
+    "fr": "Apprendre",
+    "tw": "Sua Biribi",
+    "ee": "Srɔ̃ Nu",
+    "hau": "Ka Koyi",
+    "fuv": "Janngina"
+  },
+  "Think": {
+    "fr": "Réfléchissez.",
+    "tw": "Susuw ho",
+    "ee": "Bu eŋu kpɔ",
+    "hau": "Ka yi tunani",
+    "fuv": "Fikkinee"
+  },
+  "Believe": {
+    "fr": "Croire",
+    "tw": "Gye di",
+    "ee": "Xɔ edzi se",
+    "hau": "Ka gaskata",
+    "fuv": "Goonɗinki"
+  },
+  "Want": {
+    "fr": "Voulons",
+    "tw": "So You Want",
+    "ee": "Ðe nèdi be",
+    "hau": "Kuna so",
+    "fuv": "Mi yiɗi"
+  },
+  "Need": {
+    "fr": "Besoin",
+    "tw": "Ehia",
+    "ee": "Nuhiahiãwo",
+    "hau": "Bukatar",
+    "fuv": "Baajol"
+  },
+  "Love": {
+    "fr": "Amour",
+    "tw": "Ɔdɔ",
+    "ee": "Lɔlɔ̃",
+    "hau": "Ƙauna",
+    "fuv": "Yiɗde"
+  },
+  "Be brave": {
+    "fr": "Soyez courageux",
+    "tw": "Ma wo bo ntɔ wo yam",
+    "ee": "Lé dzi ɖe ƒo",
+    "hau": "Ka kasance da gaba gaɗi",
+    "fuv": "Be be brave"
+  },
+  "Be patient": {
+    "fr": "Soyez patient",
+    "tw": "Nya abotare",
+    "ee": "Lé dzi ɖi",
+    "hau": "Ka yi haƙuri",
+    "fuv": "Yiɗee hakkiilo"
+  },
+  "Work hard": {
+    "fr": "Travailler dur",
+    "tw": "Yɛ adwumaden",
+    "ee": "Wɔ dɔ sesĩe",
+    "hau": "Ka yi aiki tuƙuru",
+    "fuv": "Kuugal masin"
+  },
+  "Study hard": {
+    "fr": "Étudiez dur",
+    "tw": "Sua ade yiye",
+    "ee": "Srɔ̃ nu vevie",
+    "hau": "Ka yi nazari sosai",
+    "fuv": "Janngina masin"
+  },
+  "Try your best": {
+    "fr": "Faites de votre mieux",
+    "tw": "Yɛ nea wubetumi biara",
+    "ee": "Wɔ wò ŋutete katã",
+    "hau": "Ka yi iya ƙoƙarinka",
+    "fuv": "Ndaa ɓernde ma"
+  },
+  "You are smart": {
+    "fr": "Vous êtes intelligent",
+    "tw": "Woyɛ onyansafo",
+    "ee": "Ènye aɖaŋudzela",
+    "hau": "Kai mai wayo ne",
+    "fuv": "On ɗon mari hakkillo"
+  },
+  "You are beautiful": {
+    "fr": "Tu es belle",
+    "tw": "Wo ho yɛ fɛ",
+    "ee": "Èlolo ŋutɔ.",
+    "hau": "Kai kyakkyawa ne",
+    "fuv": "On ɗon mawnude"
+  },
+  "Be kind": {
+    "fr": "Soyez gentils",
+    "tw": "Yɛ ayamye",
+    "ee": "Wɔ dɔmenyotɔe",
+    "hau": "Ka kasance mai kirki",
+    "fuv": "Be kind be kind"
+  },
+  "Be honest": {
+    "fr": "Soyez honnête",
+    "tw": "Di nokware",
+    "ee": "Nɔ anukwaretɔe",
+    "hau": "Ka kasance mai gaskiya",
+    "fuv": "Be honest be honest"
+  },
+  "Be respectful": {
+    "fr": "Soyez respectueux",
+    "tw": "Nya obu",
+    "ee": "Léa bubu me ɖe asi",
+    "hau": "Ka kasance da ladabi",
+    "fuv": "Hokka ɓe hakkiilo"
+  },
+  "Health is wealth": {
+    "fr": "La santé est la richesse",
+    "tw": "Apɔwmuden yɛ ahonyade",
+    "ee": "Lãmesẽ nye kesinɔnuwo",
+    "hau": "Lafiya ita ce arziki",
+    "fuv": "Kuɗol woni jawdi"
+  },
+  "Education is the key": {
+    "fr": "L’éducation est la clé",
+    "tw": "Nhomasua ne ade titiriw",
+    "ee": "Nusɔsrɔ̃e nye nu vevitɔ",
+    "hau": "Ilimi shi ne mabuɗin",
+    "fuv": "Jaɓɓorgo Kewuuji pinal"
+  },
+  "Every day is a blessing": {
+    "fr": "Chaque jour est une bénédiction",
+    "tw": "Da biara yɛ nhyira",
+    "ee": "Ŋkeke ɖe sia ɖe nye yayra",
+    "hau": "Kowace rana albarka ce.",
+    "fuv": "Fuu nyalnde woni barkiɗol"
+  },
+  "All shall be well": {
+    "fr": "Tout ira bien",
+    "tw": "Biribiara bɛyɛ yiye",
+    "ee": "Nuwo katã ayi nyuie.",
+    "hau": "Duk abin zai kasance lafiya.",
+    "fuv": "Koo ɗume laatoto boɗɗum."
+  },
+  "Wake up early": {
+    "fr": "Se réveiller tôt",
+    "tw": "Sɔre ntɛm",
+    "ee": "Mifɔ kaba",
+    "hau": "Ka tashi da wuri",
+    "fuv": "Nyaamoto subaka"
+  },
+  "Brush your teeth": {
+    "fr": "Brossez-vous les dents",
+    "tw": "Hohoro w'ano",
+    "ee": "Klɔ wò aɖuwo",
+    "hau": "Ka wanke hakora",
+    "fuv": "Ɗuɓɓugo nyaamdu maaɗa"
+  },
+  "Take a bath": {
+    "fr": "Prenez un bain",
+    "tw": "Kɔhohoro wo ho",
+    "ee": "Klɔ ɖokuiwò",
+    "hau": "Ka yi wanka",
+    "fuv": "Jaɓɓorgo Banndal"
+  },
+  "Eat breakfast": {
+    "fr": "Manger le petit déjeuner",
+    "tw": "Monni anɔpa",
+    "ee": "Ðu ŋdinu",
+    "hau": "Ka ci karin kumallo",
+    "fuv": "Nyaama nyaamdu"
+  },
+  "Go to school": {
+    "fr": "Aller à l'école",
+    "tw": "Kɔ sukuu",
+    "ee": "Yi suku",
+    "hau": "Ka je makaranta",
+    "fuv": "Yahu haa janngirde"
+  },
+  "Go to work": {
+    "fr": "Se mettre au travail",
+    "tw": "Kɔ adwuma",
+    "ee": "Yi dɔ me.",
+    "hau": "Ka tafi aiki.",
+    "fuv": "Yahu haa kuugal"
+  },
+  "Come home early": {
+    "fr": "Rentrez tôt à la maison",
+    "tw": "Bra fie ntɛm",
+    "ee": "Gbɔ va aƒe me kaba",
+    "hau": "Ka dawo gida da wuri",
+    "fuv": "Wota wuro subaka"
+  },
+  "Eat dinner": {
+    "fr": "Manger le dîner",
+    "tw": "Di anwummere",
+    "ee": "Ðu fiẽnu",
+    "hau": "Ka ci abincin dare",
+    "fuv": "Nyaama nyaamdu"
+  },
+  "Do your homework": {
+    "fr": "Faites vos devoirs",
+    "tw": "Yɛ wo sukuu dwumadi",
+    "ee": "Wɔ wò sukudɔdeasiwo",
+    "hau": "Ka yi aikin gida",
+    "fuv": "Waɗugo kuugal maaɗa"
+  },
+  "Lock the door": {
+    "fr": "Verrouiller la porte",
+    "tw": "Hyɛ ɔpon no mu",
+    "ee": "Zi ʋɔa nu",
+    "hau": "Ka rufe kofa",
+    "fuv": "Haɓɓo dammugal"
+  },
+  "Turn off the lights": {
+    "fr": "Éteignez les lumières",
+    "tw": "Yi kanea no",
+    "ee": "Tsrɔ̃ akaɖiawo",
+    "hau": "Ka kashe fitilu",
+    "fuv": "Fuli laaɓuɗe"
+  },
+  "Wash the dishes": {
+    "fr": "Laver la vaisselle",
+    "tw": "Hyɛ nneɛma hohoro",
+    "ee": "Klɔ kpluawo",
+    "hau": "Ka wanke jita-jita",
+    "fuv": "Laɓɓina limce"
+  },
+  "Sweep the house": {
+    "fr": "Balayer la maison",
+    "tw": "Hwehwɛ fie no mu",
+    "ee": "Miɖe asi le aƒea ŋu",
+    "hau": "Ka shafe gidan.",
+    "fuv": "Ɗaɓɓo wuro ngoo"
+  },
+  "Buy groceries": {
+    "fr": "Acheter des produits d'épicerie",
+    "tw": "Kɔtɔ nnuan",
+    "ee": "Ƒle nuɖuɖu",
+    "hau": "Ka sayi kayayyaki",
+    "fuv": "Jaɓɓorgo Ganndal"
+  },
+  "Feed the children": {
+    "fr": "Nourrir les enfants",
+    "tw": "Ma mmofra no aduan",
+    "ee": "Na nuɖuɖu ɖeviwo",
+    "hau": "Ka ciyar da yaran",
+    "fuv": "Nyaamugo sukaaɓe"
+  },
+  "Pay the bills": {
+    "fr": "Payer les factures",
+    "tw": "Tua wɔn ka",
+    "ee": "Naxe fewo",
+    "hau": "Biyan kuɗi",
+    "fuv": "Maɓɓa ceede"
+  },
+  "Exercise daily": {
+    "fr": "Exercice quotidien",
+    "tw": "Da biara yɛ w'apɔw mu adwuma",
+    "ee": "Dze kame gbe sia gbe",
+    "hau": "Ka riƙa motsa jiki kullum",
+    "fuv": "Huutorgol dow nyalawma"
+  },
+  "Drink more water": {
+    "fr": "Buvez plus d'eau",
+    "tw": "Monnom nsu pii",
+    "ee": "No tsi geɖe",
+    "hau": "Ka sha ruwa da yawa",
+    "fuv": "Piya ndiyam ɓeydi"
+  },
+  "Get enough sleep": {
+    "fr": "Dormez suffisamment",
+    "tw": "Da yiye",
+    "ee": "Mlɔ nyuie",
+    "hau": "Ka yi barci sosai",
+    "fuv": "Njogge ko haani"
+  },
+  "Take your medication": {
+    "fr": "Prenez vos médicaments",
+    "tw": "Fa w' nnuru no",
+    "ee": "Tsɔ wò atikeawo",
+    "hau": "Ka sha magani",
+    "fuv": "Jaɓɓorgo Kewuuji renndo"
+  },
+  "Call your parents": {
+    "fr": "Appelez vos parents",
+    "tw": "Kɔfrɛ w'awofo",
+    "ee": "Ƒo ka na dziwòlawo",
+    "hau": "Ka kira iyayenka",
+    "fuv": "Wonnde baaba'en ma"
+  },
+  "Spend time with family": {
+    "fr": "Passer du temps en famille",
+    "tw": "Wo ne w'abusua ntena",
+    "ee": "Kpɔ vovo ɖe ƒomea ŋu",
+    "hau": "Ku ciyar da lokaci tare da iyalinku",
+    "fuv": "Wakkati bee saare"
+  },
+  "We help each other": {
+    "fr": "Nous nous aidons les uns les autres",
+    "tw": "Yɛboa yɛn ho yɛn ho",
+    "ee": "Míakpe ɖe mía nɔewo ŋu",
+    "hau": "Muna taimakon juna",
+    "fuv": "En mbelti go'oto"
+  },
+  "Teamwork is important": {
+    "fr": "Le travail d’équipe est important",
+    "tw": "Nhyehyɛmu adwuma ho hia",
+    "ee": "Dɔwɔwɔ ɖekae le ƒuƒoƒo me le vevie",
+    "hau": "Yin aiki tare yana da muhimmanci",
+    "fuv": "Kuugal kawtal ko huunde mawnde"
+  },
+  "Respect the elderly": {
+    "fr": "Respecter les personnes âgées",
+    "tw": "Di nkwakoraa ne mmerewa ni",
+    "ee": "De bubu ame tsitsiwo ŋu",
+    "hau": "Ka girmama tsofaffi",
+    "fuv": "Nder mawninki seniiɓe"
+  },
+  "Take care of the children": {
+    "fr": "Prendre soin des enfants",
+    "tw": "Hwɛ mmofra no yiye",
+    "ee": "Lé be na ɖeviwo",
+    "hau": "Ka kula da yaran",
+    "fuv": "Jaɓɓorgo sukaaɓe"
+  },
+  "Do not bribe": {
+    "fr": "Ne pas soudoyer",
+    "tw": "Mommfa sika mmma",
+    "ee": "Mègaxɔ zãnu o",
+    "hau": "Kada ka ba da cin hanci",
+    "fuv": "Taa hokke limce"
+  },
+  "Pay your taxes": {
+    "fr": "Payez vos impôts",
+    "tw": "Tua wo tow",
+    "ee": "Naxe fewo",
+    "hau": "Ka biya harajinka",
+    "fuv": "Fuli limce maaɗa"
+  },
+  "Obey the law": {
+    "fr": "Respecter la loi",
+    "tw": "Di mmara so",
+    "ee": "Ðo to se la",
+    "hau": "Ka bi doka",
+    "fuv": "Hoolaaki umroore"
+  },
+  "Keep the community clean": {
+    "fr": "Gardez la communauté propre",
+    "tw": "Ma ɔman no ho ntew",
+    "ee": "Na hame la nanɔ dzadzɛ",
+    "hau": "Ka tsabtace al'umma",
+    "fuv": "Hokka ummaatoore laaɓɗo"
+  },
+  "Save electricity": {
+    "fr": "Économiser l'électricité",
+    "tw": "Ɛma yenya anyinam ahoɔden",
+    "ee": "Míadzra elektrikŋusẽ ɖo",
+    "hau": "Adana wutar lantarki",
+    "fuv": "Jaɓɓorgo Ganndal"
+  },
+  "Support local businesses": {
+    "fr": "Soutenir les entreprises locales",
+    "tw": "Mmoa a wɔde ma nnwuma a ɛwɔ mpɔtam hɔ",
+    "ee": "Kpekpeɖeŋu na dɔwɔƒe siwo le nutoa me",
+    "hau": "Taimako ga 'yan kasuwa na gida",
+    "fuv": "Wallude jaayɗe nokkuuje"
+  },
+  "Our culture is our identity": {
+    "fr": "Notre culture est notre identité",
+    "tw": "Yɛn amammerɛ ne yɛn nipasu",
+    "ee": "Míaƒe dekɔnuwo nye míaƒe amenyenye",
+    "hau": "Al'adarmu ita ce ainihinmu",
+    "fuv": "Aadaaji men woni aadaaji men"
+  },
+  "Preserve our traditions": {
+    "fr": "Préserver nos traditions",
+    "tw": "Di yɛn amanne so",
+    "ee": "Míalé míaƒe kɔnuwo me ɖe asi",
+    "hau": "Ka kiyaye al'adunmu",
+    "fuv": "Jaɓɓorgo Aadaaji men"
+  },
+  "Pass on our values": {
+    "fr": "Transmettre nos valeurs",
+    "tw": "Fa yɛn abrabɔ gyinapɛn ahorow no kyerɛ yɛn",
+    "ee": "Gblɔ míaƒe dzidzenuwo na wo",
+    "hau": "Ka ba da ra'ayinmu",
+    "fuv": "Wurtina'en ko'e meeɗen"
+  }
+}
